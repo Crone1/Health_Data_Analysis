@@ -1,0 +1,994 @@
+User full name,Event context,Component,Event name,Description,Origin,IP address,loop time,date
+s1,File: Assignment Two,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1535382'.,web,172.17.42.30,18:57,16/03/2021
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the course with id '47567'.,web,172.17.42.217,18:57,16/03/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.217,18:57,16/03/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.30,18:57,16/03/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.86,18:54,15/03/2021
+s1,Course: 2020/2021 CA4025 Application Domains 3,System,Course viewed,The user with id 's1' viewed the course with id '48916'.,web,172.17.42.71,23:27,14/03/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.228,23:27,14/03/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.30,23:27,14/03/2021
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the course with id '47567'.,web,172.17.42.75,15:46,12/03/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.75,15:46,12/03/2021
+s1,File: Assignment Two,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1535382'.,web,172.17.42.75,14:13,12/03/2021
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the course with id '47567'.,web,172.17.42.75,14:12,12/03/2021
+s1,File: Assignment 1,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1522590'.,web,172.17.42.75,14:12,12/03/2021
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the course with id '47567'.,web,172.17.42.75,14:12,12/03/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.75,14:11,12/03/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.75,14:11,12/03/2021
+s1,File: Recording of CA4024 W8 Synch Bifurcation+Chaos 1,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1546914'.,web,172.17.42.75,15:33,10/03/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.75,15:33,10/03/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.75,15:32,10/03/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.75,15:32,10/03/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Quiz attempt reviewed,The user with id 's1' has had their attempt with id '1241419' reviewed by the user with id 's1' for the quiz with course module id '1530193'.,web,172.17.42.195,15:50,08/03/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Course module viewed,The user with id 's1' viewed the 'quiz' activity with course module id '1530193'.,web,172.17.42.195,15:49,08/03/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.75,15:49,08/03/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.195,15:49,08/03/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.36,15:49,08/03/2021
+s1,URL: Conditional Random Fields,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1538880'.,web,172.17.42.252,15:39,05/03/2021
+s1,URL: Training a Hidden Markov Model,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1538674'.,web,172.17.42.75,15:18,05/03/2021
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the course with id '47567'.,web,172.17.42.252,15:16,05/03/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.36,14:59,05/03/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.252,14:59,05/03/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.252,14:59,05/03/2021
+s1,File: CA4025 Essay Topic: Can AI police ‘Big Tech’?,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1508323'.,web,172.17.42.252,14:30,03/03/2021
+s1,Course: 2020/2021 CA4025 Application Domains 3,System,Course viewed,The user with id 's1' viewed the course with id '48916'.,web,172.17.42.252,14:30,03/03/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.175,14:29,03/03/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.74,14:29,03/03/2021
+s1,Folder: Difference Equations 1 Recorded Lectures,Folder,Course module viewed,The user with id 's1' viewed the 'folder' activity with course module id '1541489'.,web,172.17.42.119,15:39,02/03/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.74,15:39,02/03/2021
+s1,File: CA659: Discrete Models Lecture 1,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1541490'.,web,172.17.42.36,15:28,02/03/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.119,15:28,02/03/2021
+s1,URL: Fibonacci Numbers and Nature,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1541493'.,web,172.17.42.36,15:27,02/03/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.74,15:27,02/03/2021
+s1,File: CA659: Discrete Models Lecture 1,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1541490'.,web,172.17.42.252,15:27,02/03/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.252,15:27,02/03/2021
+s1,File: 7.2 - Fundamentals of Modeling,System,Course activity completion updated,The user with id 's1' updated the completion state for the course module with id '1539890' for the user with id 's1'.,web,172.17.42.252,15:18,02/03/2021
+s1,File: 7.2 - Fundamentals of Modeling,System,Course activity completion updated,The user with id 's1' updated the completion state for the course module with id '1539890' for the user with id 's1'.,web,172.17.42.252,15:18,02/03/2021
+s1,File: 7.2 - Fundamentals of Modeling,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1539890'.,web,172.17.42.252,15:18,02/03/2021
+s1,File: 7.1 - Complex systems. Introduction to theory and applications,System,Course activity completion updated,The user with id 's1' updated the completion state for the course module with id '1539888' for the user with id 's1'.,web,172.17.42.74,15:18,02/03/2021
+s1,File: 7.1 - Complex systems. Introduction to theory and applications,System,Course activity completion updated,The user with id 's1' updated the completion state for the course module with id '1539888' for the user with id 's1'.,web,172.17.42.74,15:18,02/03/2021
+s1,File: 7.1 - Complex systems. Introduction to theory and applications,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1539888'.,web,172.17.42.74,15:18,02/03/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.252,15:18,02/03/2021
+s1,Folder: Difference Equations 1 Recorded Lectures,Folder,Course module viewed,The user with id 's1' viewed the 'folder' activity with course module id '1541489'.,web,172.17.42.119,15:18,02/03/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.119,15:13,02/03/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.119,12:00,02/03/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.175,12:00,02/03/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.36,12:00,02/03/2021
+s1,Front page,System,Course viewed,The user with id 's1' viewed the course with id '1'.,ws,172.17.42.252,08:56,02/03/2021
+s1,System,System,Web service function called,The web service function 'core_course_view_course' has been called.,ws,172.17.42.252,08:56,02/03/2021
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the section number '6' of the course with id '47567'.,ws,172.17.42.74,08:56,02/03/2021
+s1,System,System,Web service function called,The web service function 'core_course_view_course' has been called.,ws,172.17.42.74,08:56,02/03/2021
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the section number '8' of the course with id '47567'.,ws,172.17.42.252,08:56,02/03/2021
+s1,System,System,Web service function called,The web service function 'core_course_view_course' has been called.,ws,172.17.42.252,08:56,02/03/2021
+s1,System,System,Web service function called,The web service function 'tool_mobile_call_external_functions' has been called.,ws,172.17.42.195,08:56,02/03/2021
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the course with id '47567'.,ws,172.17.42.36,08:56,02/03/2021
+s1,System,System,Web service function called,The web service function 'core_course_view_course' has been called.,ws,172.17.42.36,08:56,02/03/2021
+s1,System,System,Web service function called,The web service function 'core_filters_get_available_in_context' has been called.,ws,172.17.42.252,08:56,02/03/2021
+s1,System,System,Web service function called,The web service function 'core_course_get_contents' has been called.,ws,172.17.42.195,08:56,02/03/2021
+s1,System,System,Web service function called,The web service function 'core_block_get_course_blocks' has been called.,ws,172.17.42.36,08:56,02/03/2021
+s1,System,System,Web service function called,The web service function 'core_filters_get_available_in_context' has been called.,ws,172.17.42.175,08:56,02/03/2021
+s1,System,System,Web service function called,The web service function 'tool_mobile_call_external_functions' has been called.,ws,172.17.42.252,08:55,02/03/2021
+s1,System,System,Web service function called,The web service function 'tool_mobile_call_external_functions' has been called.,ws,172.17.42.36,08:55,02/03/2021
+s1,System,System,Web service function called,The web service function 'tool_mobile_call_external_functions' has been called.,ws,172.17.42.119,08:55,02/03/2021
+s1,System,System,Web service function called,The web service function 'tool_mobile_call_external_functions' has been called.,ws,172.17.42.74,08:55,02/03/2021
+s1,System,System,Web service function called,The web service function 'tool_mobile_call_external_functions' has been called.,ws,172.17.42.252,08:55,02/03/2021
+s1,System,System,Web service function called,The web service function 'tool_mobile_call_external_functions' has been called.,ws,172.17.42.74,08:55,02/03/2021
+s1,Front page,System,Course viewed,The user with id 's1' viewed the course with id '1'.,ws,172.17.42.175,08:55,02/03/2021
+s1,System,System,Web service function called,The web service function 'core_course_view_course' has been called.,ws,172.17.42.175,08:55,02/03/2021
+s1,System,System,Web service function called,The web service function 'core_tag_get_tag_collections' has been called.,ws,172.17.42.252,08:55,02/03/2021
+s1,System,System,Web service function called,The web service function 'tool_mobile_call_external_functions' has been called.,ws,172.17.42.36,08:55,02/03/2021
+s1,System,System,Web service function called,The web service function 'tool_mobile_get_config' has been called.,ws,172.17.42.119,08:55,02/03/2021
+s1,System,System,Web service function called,The web service function 'core_webservice_get_site_info' has been called.,ws,172.17.42.74,08:55,02/03/2021
+s1,System,System,Web service token sent,The user with id 's1' has been sent the web service token with id '256962'.,web,172.17.42.74,08:55,02/03/2021
+s1,System,System,Web service token created,The user with id 's1' created a web service token for the user with id 's1'.,web,172.17.42.74,08:55,02/03/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.252,08:55,02/03/2021
+s1,File: CA4025 Essay Topic: Can AI police ‘Big Tech’?,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1508323'.,web,172.17.42.252,17:18,01/03/2021
+s1,Course: 2020/2021 CA4025 Application Domains 3,System,Course viewed,The user with id 's1' viewed the course with id '48916'.,web,172.17.42.36,17:18,01/03/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.195,17:18,01/03/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.74,17:18,01/03/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1241419' belonging to the user with id 's1' for the quiz with course module id '1530193'.,web,172.17.42.195,15:57,26/02/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Quiz attempt summary viewed,The user with id 's1' has viewed the summary for the attempt with id '1241419' belonging to the user with id 's1' for the quiz with course module id '1530193'.,web,172.17.42.195,15:44,26/02/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1241419' belonging to the user with id 's1' for the quiz with course module id '1530193'.,web,172.17.42.195,15:42,26/02/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1241419' belonging to the user with id 's1' for the quiz with course module id '1530193'.,web,172.17.42.252,15:37,26/02/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1241419' belonging to the user with id 's1' for the quiz with course module id '1530193'.,web,172.17.42.252,15:22,26/02/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1241419' belonging to the user with id 's1' for the quiz with course module id '1530193'.,web,172.17.42.195,15:21,26/02/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1241419' belonging to the user with id 's1' for the quiz with course module id '1530193'.,web,172.17.42.36,15:16,26/02/2021
+s1,File: CA659/ CA4024: Time Series Lecture 2 Reduced Size,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1512585'.,web,172.17.42.36,15:14,26/02/2021
+s1,File: CA659/ CA4024: Time Series Lecture 1 Reduced Size,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1510162'.,web,172.17.42.74,15:13,26/02/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1241419' belonging to the user with id 's1' for the quiz with course module id '1530193'.,web,172.17.42.195,15:13,26/02/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1241419' belonging to the user with id 's1' for the quiz with course module id '1530193'.,web,172.17.42.195,15:12,26/02/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1241419' belonging to the user with id 's1' for the quiz with course module id '1530193'.,web,172.17.42.252,15:09,26/02/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1241419' belonging to the user with id 's1' for the quiz with course module id '1530193'.,web,172.17.42.74,15:07,26/02/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1241419' belonging to the user with id 's1' for the quiz with course module id '1530193'.,web,172.17.42.74,15:05,26/02/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1241419' belonging to the user with id 's1' for the quiz with course module id '1530193'.,web,172.17.42.252,15:05,26/02/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1241419' belonging to the user with id 's1' for the quiz with course module id '1530193'.,web,172.17.42.36,15:05,26/02/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1241419' belonging to the user with id 's1' for the quiz with course module id '1530193'.,web,172.17.42.195,15:03,26/02/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1241419' belonging to the user with id 's1' for the quiz with course module id '1530193'.,web,172.17.42.252,15:02,26/02/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1241419' belonging to the user with id 's1' for the quiz with course module id '1530193'.,web,172.17.42.252,15:00,26/02/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Quiz attempt started,The user with id 's1' has started the attempt with id '1241419' for the quiz with course module id '1530193'.,web,172.17.42.195,15:00,26/02/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Course module viewed,The user with id 's1' viewed the 'quiz' activity with course module id '1530193'.,web,172.17.42.252,15:00,26/02/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Course module viewed,The user with id 's1' viewed the 'quiz' activity with course module id '1530193'.,web,172.17.42.119,14:55,26/02/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.195,14:55,26/02/2021
+s1,Quiz: CA4024 Continuous Assessment Quiz,Quiz,Course module viewed,The user with id 's1' viewed the 'quiz' activity with course module id '1530193'.,web,172.17.42.252,14:55,26/02/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.36,14:54,26/02/2021
+s1,File: CA659/ CA4024: Time Series Lecture 3 Reduced Size,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1520556'.,web,172.17.42.175,14:54,26/02/2021
+s1,File: Time Series Lecture 4 Reduced Size,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1512584'.,web,172.17.42.252,14:54,26/02/2021
+s1,File: CA659/ CA4024: Time Series Lecture 5 Reduced Size,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1534522'.,web,172.17.42.195,14:54,26/02/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.252,14:50,26/02/2021
+s1,Quiz: Time Series Quiz,Quiz,Course module viewed,The user with id 's1' viewed the 'quiz' activity with course module id '1494821'.,web,172.17.42.119,14:49,26/02/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.195,14:48,26/02/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.36,14:47,26/02/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.195,14:46,26/02/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.36,14:46,26/02/2021
+s1,Folder: Time Series 4 Recorded Lectures,Folder,Course module viewed,The user with id 's1' viewed the 'folder' activity with course module id '1512550'.,web,172.17.42.195,12:54,26/02/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.36,12:54,26/02/2021
+s1,Folder: Time Series 3 Recorded Lectures,Folder,Course module viewed,The user with id 's1' viewed the 'folder' activity with course module id '1500441'.,web,172.17.42.195,11:49,26/02/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.252,11:49,26/02/2021
+s1,File: CA659/ CA4024: Time Series Lecture 3,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1520555'.,web,172.17.42.119,18:03,25/02/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.175,18:03,25/02/2021
+s1,Folder: Time Series 3 Data &amp; R Code,Folder,Course module viewed,The user with id 's1' viewed the 'folder' activity with course module id '1500944'.,web,172.17.42.195,14:39,24/02/2021
+s1,Folder: Time Series 5 Data &amp; R Code,Folder,Zip archive of folder downloaded,The user with id 's1' downloaded a zip archive containing all the files from the folder activity with course module id '1534520'.,web,172.17.42.74,14:37,24/02/2021
+s1,Folder: Time Series 5 Data &amp; R Code,Folder,Course module viewed,The user with id 's1' viewed the 'folder' activity with course module id '1534520'.,web,172.17.42.36,14:37,24/02/2021
+s1,Folder: Time Series 4 Data &amp; R Code,Folder,Zip archive of folder downloaded,The user with id 's1' downloaded a zip archive containing all the files from the folder activity with course module id '1526501'.,web,172.17.42.36,14:37,24/02/2021
+s1,Folder: Time Series 4 Data &amp; R Code,Folder,Course module viewed,The user with id 's1' viewed the 'folder' activity with course module id '1526501'.,web,172.17.42.252,14:36,24/02/2021
+s1,Folder: Time Series 3 Data &amp; R Code,Folder,Course module viewed,The user with id 's1' viewed the 'folder' activity with course module id '1500944'.,web,172.17.42.195,14:36,24/02/2021
+s1,Folder: Time Series 2 Data &amp; R Code,Folder,Course module viewed,The user with id 's1' viewed the 'folder' activity with course module id '1500437'.,web,172.17.42.119,14:35,24/02/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.36,14:35,24/02/2021
+s1,Folder: Time Series 1 Data Files,Folder,Course module viewed,The user with id 's1' viewed the 'folder' activity with course module id '1500431'.,web,172.17.42.74,14:32,24/02/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.74,14:31,24/02/2021
+s1,Folder: Time Series 1 Data Files,Folder,Course module viewed,The user with id 's1' viewed the 'folder' activity with course module id '1500431'.,web,172.17.42.36,14:31,24/02/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.74,14:31,24/02/2021
+s1,Folder: Time Series 5 Recorded Lectures,Folder,Course module viewed,The user with id 's1' viewed the 'folder' activity with course module id '1520470'.,web,172.17.42.74,14:21,24/02/2021
+s1,File: CA659/ CA4024: Time Series Lecture 5,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1501689'.,web,172.17.42.195,14:20,24/02/2021
+s1,File: TIme Series Lecture 4,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1512583'.,web,172.17.42.36,14:20,24/02/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.252,14:19,24/02/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.74,14:19,24/02/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.175,14:19,24/02/2021
+s1,File: Assignment 1,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1522590'.,web,172.17.42.36,18:58,22/02/2021
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the course with id '47567'.,web,172.17.42.36,18:57,22/02/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.36,18:57,22/02/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.119,18:57,22/02/2021
+s1,File: Ethics and Data Protection File for FLOURISH component of module,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1516174'.,web,172.17.42.195,16:18,19/02/2021
+s1,File: Sample Sleepscore data (from Alan),File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1532861'.,web,172.17.42.74,15:25,19/02/2021
+s1,Course: 2020/2021 CA4025 Application Domains 3,System,Course viewed,The user with id 's1' viewed the course with id '48916'.,web,172.17.42.74,15:25,19/02/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.195,15:24,19/02/2021
+s1,File: Assignment 1,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1522590'.,web,172.17.42.36,14:15,19/02/2021
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the course with id '47567'.,web,172.17.42.252,14:10,19/02/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.36,14:10,19/02/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.252,14:10,19/02/2021
+s1,Course: 2020/2021 CA4025 Application Domains 3,System,Course viewed,The user with id 's1' viewed the course with id '48916'.,web,172.17.42.74,16:09,14/02/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.36,16:09,14/02/2021
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the course with id '47567'.,web,172.17.42.119,11:27,12/02/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.175,11:26,12/02/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.252,11:26,12/02/2021
+s1,User: s1,System,Message viewed,The user with id 's1' read a message from the user with id 's8'.,web,172.17.42.195,12:35,11/02/2021
+s1,Course: 2020/2021 CA4025 Application Domains 3,System,Course viewed,The user with id 's1' viewed the course with id '48916'.,web,172.17.42.104,12:35,11/02/2021
+s1,Course: 2020/2021 CA4025 Application Domains 3,System,Course viewed,The user with id 's1' viewed the course with id '48916'.,web,172.17.42.74,11:23,11/02/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.242,11:23,11/02/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.194,11:01,11/02/2021
+s1,Front page,System,Course viewed,The user with id 's1' viewed the course with id '1'.,web,172.17.42.104,11:01,11/02/2021
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.75,11:01,11/02/2021
+s1,Assignment: Final Submission (Assigment 3),Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1471178'.,web,172.17.42.36,10:06,11/02/2021
+s1,Assignment: Final Submission (Assigment 3),Assignment,Feedback viewed,The user with id 's1' viewed the feedback for the user with id 's1' for the assignment with course module id '1471178'.,web,172.17.42.36,10:06,11/02/2021
+s1,Assignment: Final Submission (Assigment 3),Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1471178'.,web,172.17.42.36,10:06,11/02/2021
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.75,10:06,11/02/2021
+s1,Assignment: Assignment 2 Submission,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1440272'.,web,172.17.42.252,10:05,11/02/2021
+s1,Assignment: Assignment 2 Submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1440272'.,web,172.17.42.252,10:05,11/02/2021
+s1,Assignment: Assignment 1 Submission,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1440241'.,web,172.17.42.36,10:03,11/02/2021
+s1,Assignment: Assignment 1 Submission,Assignment,Feedback viewed,The user with id 's1' viewed the feedback for the user with id 's1' for the assignment with course module id '1440241'.,web,172.17.42.36,10:03,11/02/2021
+s1,Assignment: Assignment 1 Submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1440241'.,web,172.17.42.36,10:03,11/02/2021
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.252,10:02,11/02/2021
+s1,URL: Lab1 - Hadoop and Map Reduce,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1416410'.,web,172.17.42.74,10:02,11/02/2021
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.104,10:02,11/02/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.75,10:02,11/02/2021
+s1,File: Code of Ethics for ACM Software Engineers,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1509676'.,web,172.17.42.195,08:35,11/02/2021
+s1,File: CA4025 Code of Ethics for Data Scientists,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1509655'.,web,172.17.42.75,08:32,11/02/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.74,08:32,11/02/2021
+s1,Course: 2020/2021 CA4025 Application Domains 3,System,Course viewed,The user with id 's1' viewed the course with id '48916'.,web,172.17.42.36,16:13,10/02/2021
+s1,Course: 2020/2021 CA4016 Application Domains 2,System,Course viewed,The user with id 's1' viewed the course with id '46782'.,web,172.17.42.104,16:12,10/02/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.195,16:09,10/02/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.74,16:09,10/02/2021
+s1,Folder: Time Series 4 Recorded Lectures,Folder,Course module viewed,The user with id 's1' viewed the 'folder' activity with course module id '1512550'.,web,172.17.42.195,09:25,10/02/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.252,09:25,10/02/2021
+s1,Folder: Time Series 3 Recorded Lectures,Folder,Course module viewed,The user with id 's1' viewed the 'folder' activity with course module id '1500441'.,web,172.17.42.74,09:22,10/02/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.252,09:22,10/02/2021
+s1,Folder: Time Series 3 Recorded Lectures,Folder,Course module viewed,The user with id 's1' viewed the 'folder' activity with course module id '1500441'.,web,172.17.42.74,08:57,10/02/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.175,08:56,10/02/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.242,08:56,10/02/2021
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the course with id '47567'.,web,172.17.42.242,08:56,10/02/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.104,08:56,10/02/2021
+s1,File: Language Model Slides,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1521297'.,web,172.17.42.252,09:43,09/02/2021
+s1,File: Assignment 1,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1522590'.,web,172.17.42.74,09:17,09/02/2021
+s1,File: Text Classification Slides,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1525687'.,web,172.17.42.74,08:54,09/02/2021
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the course with id '47567'.,web,172.17.42.194,08:54,09/02/2021
+s1,URL: Evaluation,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1525688'.,web,172.17.42.195,08:44,09/02/2021
+s1,URL: Naive Bayes - other points to note,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1525679'.,web,172.17.42.74,08:41,09/02/2021
+s1,URL: More on Sentiment Analysis,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1525146'.,web,172.17.42.36,08:35,09/02/2021
+s1,URL: Training the Naive Bayes Classifier,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1525135'.,web,172.17.42.252,08:30,09/02/2021
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the course with id '47567'.,web,172.17.42.36,08:30,09/02/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.74,08:30,09/02/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.242,08:30,09/02/2021
+s1,URL: Training the Naive Bayes Classifier,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1525135'.,web,172.17.42.252,08:30,09/02/2021
+s1,URL: The Naive Bayes Classifier,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1524730'.,web,172.17.42.194,08:25,09/02/2021
+s1,URL: An Introduction to Text Classification,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1524723'.,web,172.17.42.242,08:17,09/02/2021
+s1,URL: Introducing the text classification videos,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1525690'.,web,172.17.42.75,08:16,09/02/2021
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the course with id '47567'.,web,172.17.42.36,08:15,09/02/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.74,08:15,09/02/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.242,08:15,09/02/2021
+s1,File: Text Processing Slides,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1521310'.,web,172.17.42.119,21:14,05/02/2021
+s1,URL: Tokenisation,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1506863'.,web,172.17.42.252,21:14,05/02/2021
+s1,File: Assignment 1,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1522590'.,web,172.17.42.242,20:18,05/02/2021
+s1,File: Week Three Live Session Class Exercises,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1522560'.,web,172.17.42.36,20:12,05/02/2021
+s1,URL: Week Three Live Session,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1522524'.,web,172.17.42.104,20:11,05/02/2021
+s1,URL: Smoothing Language Models (Part Three),URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1517737'.,web,172.17.42.195,20:04,05/02/2021
+s1,URL: Smoothing Language Models (Part Two),URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1517709'.,web,172.17.42.36,19:59,05/02/2021
+s1,URL: Smoothing Language Models (Part One),URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1517647'.,web,172.17.42.104,19:54,05/02/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.74,19:54,05/02/2021
+s1,URL: Evaluating language models,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1517624'.,web,172.17.42.194,09:12,05/02/2021
+s1,URL: N-gram language models,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1517623'.,web,172.17.42.74,09:02,05/02/2021
+s1,URL: An Introduction to language models,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1517620'.,web,172.17.42.36,08:58,05/02/2021
+s1,URL: Intro to the n-gram language models,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1517616'.,web,172.17.42.75,08:57,05/02/2021
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the course with id '47567'.,web,172.17.42.74,08:56,05/02/2021
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the course with id '47567'.,web,172.17.42.195,08:54,05/02/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.104,08:54,05/02/2021
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the course with id '47567'.,web,172.17.42.36,20:25,04/02/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.242,20:23,04/02/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.242,19:56,04/02/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.74,19:56,04/02/2021
+s1,File: Language Model Slides,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1521297'.,web,172.17.42.36,09:41,02/02/2021
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the course with id '47567'.,web,172.17.42.75,08:59,02/02/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.242,08:59,02/02/2021
+s1,File: Ethics and Data Protection File for FLOURISH component of module,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1516174'.,web,172.17.42.104,10:49,01/02/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.194,10:45,01/02/2021
+s1,File: FLOURISH component 1-slide summary,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1519247'.,web,172.17.42.242,10:30,01/02/2021
+s1,File: FLOURISH component 1-slide summary,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1519247'.,web,172.17.42.104,10:30,01/02/2021
+s1,File: Ethics and Data Protection File for FLOURISH component of module,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1516174'.,web,172.17.42.175,10:18,01/02/2021
+s1,File: CA4025 Code of Ethics for Data Scientists,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1509655'.,web,172.17.42.75,09:44,01/02/2021
+s1,Course: 2020/2021 CA4025 Application Domains 3,System,Course viewed,The user with id 's1' viewed the course with id '48916'.,web,172.17.42.175,09:41,01/02/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.75,09:41,01/02/2021
+s1,File: Code of Ethics for ACM Software Engineers,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1509676'.,web,172.17.42.175,14:09,29/01/2021
+s1,Course: 2020/2021 CA4025 Application Domains 3,System,Course viewed,The user with id 's1' viewed the course with id '48916'.,web,172.17.42.104,14:07,29/01/2021
+s1,URL: Smoothing Language Models (Part One),URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1517647'.,web,172.17.42.83,14:06,29/01/2021
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the course with id '47567'.,web,172.17.42.36,14:05,29/01/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.242,14:05,29/01/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.175,14:05,29/01/2021
+s1,URL: Link for Zoom call for week 2 FLOURISH component,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1516173'.,web,172.17.42.175,15:59,28/01/2021
+s1,File: Ethics and Data Protection File for FLOURISH component of module,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1516174'.,web,172.17.42.83,15:58,28/01/2021
+s1,Course: 2020/2021 CA4025 Application Domains 3,System,Course viewed,The user with id 's1' viewed the course with id '48916'.,web,172.17.42.104,15:58,28/01/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.75,15:58,28/01/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.194,15:58,28/01/2021
+s1,Course: 2020/2021 CA4025 Application Domains 3,System,Course viewed,The user with id 's1' viewed the course with id '48916'.,web,172.17.42.75,15:43,28/01/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.219,15:43,28/01/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.219,15:43,28/01/2021
+s1,Quiz: Quiz to Assess Knowledge of Time Series Components,Quiz,Quiz attempt reviewed,The user with id 's1' has had their attempt with id '1218496' reviewed by the user with id 's1' for the quiz with course module id '1500433'.,web,172.17.42.219,16:10,27/01/2021
+s1,Quiz: Quiz to Assess Knowledge of Time Series Components,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1219606' belonging to the user with id 's1' for the quiz with course module id '1500433'.,web,172.17.42.175,16:09,27/01/2021
+s1,Quiz: Quiz to Assess Knowledge of Time Series Components,Quiz,Quiz attempt started,The user with id 's1' has started the attempt with id '1219606' for the quiz with course module id '1500433'.,web,172.17.42.242,16:09,27/01/2021
+s1,Quiz: Quiz to Assess Knowledge of Time Series Components,Quiz,Course module viewed,The user with id 's1' viewed the 'quiz' activity with course module id '1500433'.,web,172.17.42.175,16:09,27/01/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.175,15:57,27/01/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.104,15:57,27/01/2021
+s1,URL: CA659/ CA4024: Survey on Week 2 Asynch Materials,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1512636'.,web,172.17.42.75,15:56,27/01/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.194,15:56,27/01/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.219,15:56,27/01/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.83,15:56,27/01/2021
+s1,URL: Types of Preprocessing,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1506858'.,web,172.17.42.75,16:08,26/01/2021
+s1,URL: Normalisation,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1507135'.,web,172.17.42.75,16:08,26/01/2021
+s1,URL: Sentence Splitting,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1507137'.,web,172.17.42.83,16:02,26/01/2021
+s1,URL: Week Two Live Session,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1515305'.,web,172.17.42.242,15:41,26/01/2021
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the course with id '47567'.,web,172.17.42.242,15:41,26/01/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.104,15:41,26/01/2021
+s1,Quiz: Quiz to Assess Knowledge of Time Series Components,Quiz,Quiz attempt reviewed,The user with id 's1' has had their attempt with id '1218496' reviewed by the user with id 's1' for the quiz with course module id '1500433'.,web,172.17.42.83,12:17,26/01/2021
+s1,Quiz: Quiz to Assess Knowledge of Time Series Components,Quiz,Quiz attempt submitted,The user with id 's1' has submitted the attempt with id '1218496' for the quiz with course module id '1500433'.,web,172.17.42.175,12:17,26/01/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,User graded,The user with id 's1' updated the grade with id '29319121' for the user with id 's1' for the grade item with id '300683'.,web,172.17.42.175,12:17,26/01/2021
+s1,Quiz: Quiz to Assess Knowledge of Time Series Components,Quiz,Quiz attempt summary viewed,The user with id 's1' has viewed the summary for the attempt with id '1218496' belonging to the user with id 's1' for the quiz with course module id '1500433'.,web,172.17.42.194,12:17,26/01/2021
+s1,Quiz: Quiz to Assess Knowledge of Time Series Components,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1218496' belonging to the user with id 's1' for the quiz with course module id '1500433'.,web,172.17.42.36,12:17,26/01/2021
+s1,Quiz: Quiz to Assess Knowledge of Time Series Components,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1218496' belonging to the user with id 's1' for the quiz with course module id '1500433'.,web,172.17.42.104,12:16,26/01/2021
+s1,Quiz: Quiz to Assess Knowledge of Time Series Components,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1218496' belonging to the user with id 's1' for the quiz with course module id '1500433'.,web,172.17.42.36,12:16,26/01/2021
+s1,Quiz: Quiz to Assess Knowledge of Time Series Components,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1218496' belonging to the user with id 's1' for the quiz with course module id '1500433'.,web,172.17.42.104,12:15,26/01/2021
+s1,Quiz: Quiz to Assess Knowledge of Time Series Components,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1218496' belonging to the user with id 's1' for the quiz with course module id '1500433'.,web,172.17.42.83,12:15,26/01/2021
+s1,Quiz: Quiz to Assess Knowledge of Time Series Components,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1218496' belonging to the user with id 's1' for the quiz with course module id '1500433'.,web,172.17.42.104,12:14,26/01/2021
+s1,Quiz: Quiz to Assess Knowledge of Time Series Components,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1218496' belonging to the user with id 's1' for the quiz with course module id '1500433'.,web,172.17.42.175,12:14,26/01/2021
+s1,Quiz: Quiz to Assess Knowledge of Time Series Components,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1218496' belonging to the user with id 's1' for the quiz with course module id '1500433'.,web,172.17.42.242,12:14,26/01/2021
+s1,Quiz: Quiz to Assess Knowledge of Time Series Components,Quiz,Quiz attempt started,The user with id 's1' has started the attempt with id '1218496' for the quiz with course module id '1500433'.,web,172.17.42.75,12:14,26/01/2021
+s1,Quiz: Quiz to Assess Knowledge of Time Series Components,Quiz,Course module viewed,The user with id 's1' viewed the 'quiz' activity with course module id '1500433'.,web,172.17.42.175,12:14,26/01/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.219,12:14,26/01/2021
+s1,Quiz: Quiz to Assess Knowledge of Time Series Components,Quiz,Course module viewed,The user with id 's1' viewed the 'quiz' activity with course module id '1500433'.,web,172.17.42.175,12:13,26/01/2021
+s1,Quiz: Quiz to Assess Knowledge of Time Series Components,Quiz,Course module viewed,The user with id 's1' viewed the 'quiz' activity with course module id '1500433'.,web,172.17.42.75,12:13,26/01/2021
+s1,File: Time Series Exercises 1: Measuring a Trend,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1494813'.,web,172.17.42.83,12:11,26/01/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.219,12:11,26/01/2021
+s1,Folder: Time Series 2 Recorded Lectures,Folder,Course module viewed,The user with id 's1' viewed the 'folder' activity with course module id '1494814'.,web,172.17.42.175,11:14,26/01/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.83,11:13,26/01/2021
+s1,File: CA659/ CA4024: Time Series 1,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1494810'.,web,172.17.42.242,11:13,26/01/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.194,11:13,26/01/2021
+s1,Folder: Time Series 2 Recorded Lectures,Folder,Course module viewed,The user with id 's1' viewed the 'folder' activity with course module id '1494814'.,web,172.17.42.75,11:13,26/01/2021
+s1,Quiz: Introductory Quiz,Quiz,Course module viewed,The user with id 's1' viewed the 'quiz' activity with course module id '1494809'.,web,172.17.42.36,11:12,26/01/2021
+s1,Quiz: Introductory Quiz,Quiz,Quiz attempt reviewed,The user with id 's1' has had their attempt with id '1215740' reviewed by the user with id 's1' for the quiz with course module id '1494809'.,web,172.17.42.242,11:11,26/01/2021
+s1,Quiz: Introductory Quiz,Quiz,Quiz attempt submitted,The user with id 's1' has submitted the attempt with id '1215740' for the quiz with course module id '1494809'.,web,172.17.42.75,11:11,26/01/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,User graded,The user with id 's1' updated the grade with id '29319117' for the user with id 's1' for the grade item with id '300122'.,web,172.17.42.75,11:11,26/01/2021
+s1,Quiz: Introductory Quiz,Quiz,Quiz attempt summary viewed,The user with id 's1' has viewed the summary for the attempt with id '1215740' belonging to the user with id 's1' for the quiz with course module id '1494809'.,web,172.17.42.219,11:11,26/01/2021
+s1,Quiz: Introductory Quiz,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1215740' belonging to the user with id 's1' for the quiz with course module id '1494809'.,web,172.17.42.36,11:10,26/01/2021
+s1,Quiz: Introductory Quiz,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1215740' belonging to the user with id 's1' for the quiz with course module id '1494809'.,web,172.17.42.83,11:08,26/01/2021
+s1,Quiz: Introductory Quiz,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1215740' belonging to the user with id 's1' for the quiz with course module id '1494809'.,web,172.17.42.75,11:08,26/01/2021
+s1,Quiz: Introductory Quiz,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1215740' belonging to the user with id 's1' for the quiz with course module id '1494809'.,web,172.17.42.175,11:07,26/01/2021
+s1,Quiz: Introductory Quiz,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1215740' belonging to the user with id 's1' for the quiz with course module id '1494809'.,web,172.17.42.83,11:07,26/01/2021
+s1,Quiz: Introductory Quiz,Quiz,Course module viewed,The user with id 's1' viewed the 'quiz' activity with course module id '1494809'.,web,172.17.42.75,11:07,26/01/2021
+s1,File: CA659/ CA4024: Time Series Lecture 2 Reduced Size,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1512585'.,web,172.17.42.175,11:07,26/01/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.175,11:06,26/01/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.36,11:06,26/01/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.175,11:06,26/01/2021
+s1,Course: 2020/2021 CA4025 Application Domains 3,System,Course viewed,The user with id 's1' viewed the course with id '48916'.,web,172.17.42.194,10:55,21/01/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.194,10:54,21/01/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.104,10:54,21/01/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.194,16:29,20/01/2021
+s1,Quiz: Introductory Quiz,Quiz,Quiz attempt viewed,The user with id 's1' has viewed the attempt with id '1215740' belonging to the user with id 's1' for the quiz with course module id '1494809'.,web,172.17.42.219,16:00,20/01/2021
+s1,Quiz: Introductory Quiz,Quiz,Quiz attempt started,The user with id 's1' has started the attempt with id '1215740' for the quiz with course module id '1494809'.,web,172.17.42.219,16:00,20/01/2021
+s1,Quiz: Introductory Quiz,Quiz,Course module viewed,The user with id 's1' viewed the 'quiz' activity with course module id '1494809'.,web,172.17.42.194,15:57,20/01/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.219,15:57,20/01/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.194,15:57,20/01/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.83,15:56,20/01/2021
+s1,Folder: Time Series 1 Data Files,Folder,Course module viewed,The user with id 's1' viewed the 'folder' activity with course module id '1500431'.,web,172.17.42.194,17:48,18/01/2021
+s1,Quiz: Introductory Quiz,Quiz,Course module viewed,The user with id 's1' viewed the 'quiz' activity with course module id '1494809'.,web,172.17.42.83,17:48,18/01/2021
+s1,File: CA659/ CA4024: Time Series 1,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1494810'.,web,172.17.42.83,17:16,18/01/2021
+s1,File: CA659/ CA4024: Time Series Lecture 0,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1500428'.,web,172.17.42.219,17:16,18/01/2021
+s1,File: CA659/ CA4024: Introduction Lecture,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1500427'.,web,172.17.42.83,17:04,18/01/2021
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,172.17.42.83,17:03,18/01/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.219,17:02,18/01/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.219,17:02,18/01/2021
+s1,User: s1,System,Message viewed,The user with id 's1' read a message from the user with id 's8'.,web,172.17.42.194,19:22,14/01/2021
+s1,User: s1,System,Message viewed,The user with id 's1' read a message from the user with id 's8'.,web,172.17.42.194,19:22,14/01/2021
+s1,File: Marking Scheme Assignment 4,System,Course activity completion updated,The user with id 's1' updated the completion state for the course module with id '1474750' for the user with id 's1'.,web,172.17.42.194,18:56,14/01/2021
+s1,Course: 2020/2021 CA4015 Advanced Machine Learning,System,Course viewed,The user with id 's1' viewed the course with id '46248'.,web,172.17.42.104,18:56,14/01/2021
+s1,Assignment: Assignment 4 Submission,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1447779'.,web,172.17.42.219,18:56,14/01/2021
+s1,Assignment: Assignment 4 Submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1447779'.,web,172.17.42.219,18:56,14/01/2021
+s1,File: Marking Scheme Assignment 4,System,Course activity completion updated,The user with id 's1' updated the completion state for the course module with id '1474750' for the user with id 's1'.,web,172.17.42.219,18:53,14/01/2021
+s1,File: Marking Scheme Assignment 4,System,Course activity completion updated,The user with id 's1' updated the completion state for the course module with id '1474750' for the user with id 's1'.,web,172.17.42.219,18:53,14/01/2021
+s1,File: Marking Scheme Assignment 4,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1474750'.,web,172.17.42.219,18:53,14/01/2021
+s1,File: Marking Scheme Assignment 4,System,Course activity completion updated,The user with id 's1' updated the completion state for the course module with id '1474750' for the user with id 's1'.,web,172.17.42.104,18:53,14/01/2021
+s1,File: Marking Scheme Assignment 4,System,Course activity completion updated,The user with id 's1' updated the completion state for the course module with id '1474750' for the user with id 's1'.,web,172.17.42.194,18:53,14/01/2021
+s1,Course: 2020/2021 CA4015 Advanced Machine Learning,System,Course viewed,The user with id 's1' viewed the course with id '46248'.,web,172.17.42.104,18:53,14/01/2021
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.83,18:53,14/01/2021
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.104,18:53,14/01/2021
+s1,Assignment: Final Submission (Assigment 3),Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1471178'.,web,172.17.42.235,20:11,19/12/2020
+s1,Assignment: Final Submission (Assigment 3),Assignment,Feedback viewed,The user with id 's1' viewed the feedback for the user with id 's1' for the assignment with course module id '1471178'.,web,172.17.42.235,20:11,19/12/2020
+s1,Assignment: Final Submission (Assigment 3),Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1471178'.,web,172.17.42.235,20:11,19/12/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.235,20:11,19/12/2020
+s1,Assignment: Assignment 1 Submission,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1440241'.,web,172.17.42.161,20:11,19/12/2020
+s1,Assignment: Assignment 1 Submission,Assignment,Feedback viewed,The user with id 's1' viewed the feedback for the user with id 's1' for the assignment with course module id '1440241'.,web,172.17.42.161,20:11,19/12/2020
+s1,Assignment: Assignment 1 Submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1440241'.,web,172.17.42.161,20:11,19/12/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.161,20:11,19/12/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.219,20:11,19/12/2020
+s1,Page: Assignment 3,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1461925'.,web,172.17.42.161,20:06,19/12/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.235,20:06,19/12/2020
+s1,URL: Assignment 3 - Mid-way Report and Workshop Activity (Zoom recording),URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1463308'.,web,172.17.42.83,20:06,19/12/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.235,20:06,19/12/2020
+s1,Assignment: Final Submission (Assigment 3),Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1471178'.,web,172.17.42.161,20:05,19/12/2020
+s1,Assignment: Final Submission (Assigment 3),Assignment,Feedback viewed,The user with id 's1' viewed the feedback for the user with id 's1' for the assignment with course module id '1471178'.,web,172.17.42.161,20:05,19/12/2020
+s1,Assignment: Final Submission (Assigment 3),Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1471178'.,web,172.17.42.161,20:05,19/12/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.113,20:05,19/12/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.104,20:05,19/12/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.219,20:05,19/12/2020
+s1,Page: Lab6 - ML Pipelines and Recommender Systems,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1465165'.,web,172.17.42.219,15:26,19/12/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.178,15:25,19/12/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.113,15:25,19/12/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.83,15:25,19/12/2020
+s1,Assignment: Assignment 2 Submission,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1440272'.,web,172.17.42.83,19:57,11/12/2020
+s1,Assignment: Assignment 2 Submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1440272'.,web,172.17.42.83,19:57,11/12/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.70,19:57,11/12/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.70,19:57,11/12/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.8,19:57,11/12/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.113,19:12,05/12/2020
+s1,Workshop: (Workshop Activity) Mid-way report peer-feedback and peer-assessment,Workshop,Course module viewed,The user with id 's1' viewed the 'workshop' activity with course module id '1461937'.,web,172.17.42.70,19:12,05/12/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.113,19:12,05/12/2020
+s1,Assignment: Mid-way Report submission,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1461934'.,web,172.17.42.8,19:12,05/12/2020
+s1,Assignment: Mid-way Report submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1461934'.,web,172.17.42.8,19:12,05/12/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.156,19:12,05/12/2020
+s1,Assignment: Final Submission (Assigment 3),Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1471178'.,web,172.17.42.156,19:12,05/12/2020
+s1,Assignment: Final Submission (Assigment 3),Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1471178'.,web,172.17.42.156,19:12,05/12/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.70,19:12,05/12/2020
+s1,Assignment: Assignment 2 Submission,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1440272'.,web,172.17.42.113,19:12,05/12/2020
+s1,Assignment: Assignment 2 Submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1440272'.,web,172.17.42.113,19:12,05/12/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.113,19:12,05/12/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.154,19:11,05/12/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.113,19:11,05/12/2020
+s1,Assignment: Assignment 1 Submission,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1440241'.,web,172.17.42.156,20:32,03/12/2020
+s1,Assignment: Assignment 1 Submission,Assignment,Feedback viewed,The user with id 's1' viewed the feedback for the user with id 's1' for the assignment with course module id '1440241'.,web,172.17.42.156,20:32,03/12/2020
+s1,Assignment: Assignment 1 Submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1440241'.,web,172.17.42.156,20:32,03/12/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.178,20:31,03/12/2020
+s1,Course: 2020/2021 CA4015 Advanced Machine Learning,System,Course viewed,The user with id 's1' viewed the course with id '46248'.,web,172.17.42.154,20:31,03/12/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.156,20:31,03/12/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.113,20:31,03/12/2020
+s1,Assignment: Assignment 1 Submission,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1440241'.,web,172.17.42.8,16:39,02/12/2020
+s1,Assignment: Assignment 1 Submission,Assignment,Feedback viewed,The user with id 's1' viewed the feedback for the user with id 's1' for the assignment with course module id '1440241'.,web,172.17.42.8,16:39,02/12/2020
+s1,Assignment: Assignment 1 Submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1440241'.,web,172.17.42.8,16:39,02/12/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.178,16:39,02/12/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.178,16:39,02/12/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.178,16:39,02/12/2020
+s1,Workshop: (Workshop Activity) Mid-way report peer-feedback and peer-assessment,Workshop,Submission viewed,The user with id 's1' viewed the submission with id '9984' for the workshop with course module id '1461937'.,web,172.17.42.178,11:11,02/12/2020
+s1,Workshop: (Workshop Activity) Mid-way report peer-feedback and peer-assessment,Workshop,Course module viewed,The user with id 's1' viewed the 'workshop' activity with course module id '1461937'.,web,172.17.42.8,11:11,02/12/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.8,11:11,02/12/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.8,11:11,02/12/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.113,11:11,02/12/2020
+s1,Workshop: (Workshop Activity) Mid-way report peer-feedback and peer-assessment,Workshop,Submission viewed,The user with id 's1' viewed the submission with id '9984' for the workshop with course module id '1461937'.,web,172.17.42.154,19:25,01/12/2020
+s1,Workshop: (Workshop Activity) Mid-way report peer-feedback and peer-assessment,Workshop,Course module viewed,The user with id 's1' viewed the 'workshop' activity with course module id '1461937'.,web,172.17.42.113,19:25,01/12/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.154,19:24,01/12/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.156,19:24,01/12/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.156,19:24,01/12/2020
+s1,Workshop: (Workshop Activity) Mid-way report peer-feedback and peer-assessment,Workshop,Submission viewed,The user with id 's1' viewed the submission with id '9984' for the workshop with course module id '1461937'.,web,172.17.42.70,19:21,01/12/2020
+s1,Workshop: (Workshop Activity) Mid-way report peer-feedback and peer-assessment,Workshop,Course module viewed,The user with id 's1' viewed the 'workshop' activity with course module id '1461937'.,web,172.17.42.70,19:21,01/12/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.8,19:21,01/12/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.113,19:20,01/12/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.113,19:20,01/12/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.113,21:57,30/11/2020
+s1,Assignment: Mid-way Report submission,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1461934'.,web,172.17.42.156,21:56,30/11/2020
+s1,Assignment: Mid-way Report submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1461934'.,web,172.17.42.156,21:56,30/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.154,21:56,30/11/2020
+s1,URL: Assignment 3 - Mid-way Report and Workshop Activity (Zoom recording),URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1463308'.,web,172.17.42.113,21:55,30/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.154,21:55,30/11/2020
+s1,Page: Assignment 3,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1461925'.,web,172.17.42.178,21:55,30/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.154,21:55,30/11/2020
+s1,Workshop: (Workshop Activity) Mid-way report peer-feedback and peer-assessment,Workshop,Course module viewed,The user with id 's1' viewed the 'workshop' activity with course module id '1461937'.,web,172.17.42.70,21:48,30/11/2020
+s1,Workshop: (Workshop Activity) Mid-way report peer-feedback and peer-assessment,Workshop,Course module viewed,The user with id 's1' viewed the 'workshop' activity with course module id '1461937'.,web,172.17.42.154,21:48,30/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.156,21:47,30/11/2020
+s1,Assignment: Assignment 2 Submission,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1440272'.,web,172.17.42.156,21:47,30/11/2020
+s1,Assignment: Assignment 2 Submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1440272'.,web,172.17.42.156,21:47,30/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.113,21:46,30/11/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.70,21:44,30/11/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.154,21:44,30/11/2020
+s1,Page: Assignment 3,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1461925'.,web,172.17.42.154,12:36,25/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.113,12:36,25/11/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.8,12:36,25/11/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.154,12:36,25/11/2020
+s1,Assignment: Assignment 2 Submission,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1447765'.,web,172.17.42.178,14:41,21/11/2020
+s1,Assignment: Assignment 2 Submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1447765'.,web,172.17.42.178,14:41,21/11/2020
+s1,Assignment: Assignment 2 Submission,Assignment,A submission has been submitted.,The user with id 's1' has submitted the submission with id '3073295' for the assignment with course module id '1447765'.,web,172.17.42.154,14:41,21/11/2020
+s1,Assignment: Assignment 2 Submission,Assignment,The user has accepted the statement of the submission.,The user with id 's1' has accepted the statement of the submission with id '3073295' for the assignment with course module id '1447765'.,web,172.17.42.154,14:41,21/11/2020
+s1,Assignment: Assignment 2 Submission,System,Course activity completion updated,The user with id 's1' updated the completion state for the course module with id '1447765' for the user with id 's1'.,web,172.17.42.154,14:41,21/11/2020
+s1,Assignment: Assignment 2 Submission,File submissions,Submission created.,The user with id 's1' created a file submission and uploaded '1' file/s in the assignment with course module id '1447765'.,web,172.17.42.154,14:41,21/11/2020
+s1,Assignment: Assignment 2 Submission,File submissions,A file has been uploaded.,The user with id 's1' has uploaded a file to the submission with id '3073295' in the assignment activity with course module id '1447765'.,web,172.17.42.154,14:41,21/11/2020
+s1,Assignment: Assignment 2 Submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1447765'.,web,172.17.42.154,14:41,21/11/2020
+s1,Assignment: Assignment 2 Submission,Assignment,Submission form viewed.,The user with id 's1' viewed their submission for the assignment with course module id '1447765'.,web,172.17.42.113,14:41,21/11/2020
+s1,Assignment: Assignment 2 Submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1447765'.,web,172.17.42.113,14:41,21/11/2020
+s1,Assignment: Assignment 2 Submission,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1447765'.,web,172.17.42.178,14:41,21/11/2020
+s1,Assignment: Assignment 2 Submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1447765'.,web,172.17.42.178,14:41,21/11/2020
+s1,Course: 2020/2021 CA4015 Advanced Machine Learning,System,Course viewed,The user with id 's1' viewed the course with id '46248'.,web,172.17.42.178,14:41,21/11/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.8,14:41,21/11/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.154,14:41,21/11/2020
+s1,File: SVM,System,Course activity completion updated,The user with id 's1' updated the completion state for the course module with id '1458483' for the user with id 's1'.,web,172.17.42.154,23:38,20/11/2020
+s1,File: SVM,System,Course activity completion updated,The user with id 's1' updated the completion state for the course module with id '1458483' for the user with id 's1'.,web,172.17.42.154,23:38,20/11/2020
+s1,File: SVM,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1458483'.,web,172.17.42.154,23:38,20/11/2020
+s1,Assignment: Assignment 2 Submission,Assignment,Submission form viewed.,The user with id 's1' viewed their submission for the assignment with course module id '1447765'.,web,172.17.42.178,23:38,20/11/2020
+s1,Assignment: Assignment 2 Submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1447765'.,web,172.17.42.178,23:38,20/11/2020
+s1,Assignment: Assignment 2 Submission,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1447765'.,web,172.17.42.178,23:37,20/11/2020
+s1,Assignment: Assignment 2 Submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1447765'.,web,172.17.42.178,23:37,20/11/2020
+s1,Course: 2020/2021 CA4015 Advanced Machine Learning,System,Course viewed,The user with id 's1' viewed the course with id '46248'.,web,172.17.42.178,23:37,20/11/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.178,23:37,20/11/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.178,23:37,20/11/2020
+s1,Course: 2020/2021 CA4015 Advanced Machine Learning,System,Course viewed,The user with id 's1' viewed the course with id '46248'.,web,172.17.42.156,14:05,20/11/2020
+s1,Assignment: Handup for Assignment 1 ,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1429775'.,web,172.17.42.113,14:05,20/11/2020
+s1,Assignment: Handup for Assignment 1 ,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1429775'.,web,172.17.42.113,14:05,20/11/2020
+s1,Course: 2020/2021 CA4015 Advanced Machine Learning,System,Course viewed,The user with id 's1' viewed the course with id '46248'.,web,172.17.42.8,14:04,20/11/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.178,14:02,20/11/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.156,14:02,20/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.156,12:06,19/11/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.8,12:06,19/11/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.70,12:06,19/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383076' in the forum with course module id '1440275'.,web,172.17.42.70,11:29,18/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Course module viewed,The user with id 's1' viewed the 'forum' activity with course module id '1440275'.,web,172.17.42.156,11:29,18/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.248,11:28,18/11/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.35,11:28,18/11/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.35,11:28,18/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383763' in the forum with course module id '1440275'.,web,172.17.42.103,13:20,15/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383134' in the forum with course module id '1440275'.,web,172.17.42.228,13:09,15/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383134' in the forum with course module id '1440275'.,web,172.17.42.156,13:08,15/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Course module viewed,The user with id 's1' viewed the 'forum' activity with course module id '1440275'.,web,172.17.42.8,13:08,15/11/2020
+s1,Page: Assignment 2 Information,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1440198'.,web,172.17.42.228,13:07,15/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.150,13:06,15/11/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.156,13:06,15/11/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.156,13:06,15/11/2020
+s1,System,System,Notification sent,The user with id 's1' sent a notification to the user with id 's5'.,cli,,14:30,13/11/2020
+s1,System,System,Notification sent,The user with id 's1' sent a notification to the user with id 's1'.,cli,,14:30,13/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion subscription created,The user with id 's1' subscribed the user with id 's1' to the discussion  with id '383763' in the forum with the course module id '1440275'.,web,172.17.42.150,13:56,13/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Post created,The user with id 's1' has created the post with id '977161' in the discussion with id '383763' in the forum with course module id '1440275'.,web,172.17.42.150,13:56,13/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Some content has been posted.,The user with id 's1' has posted content in the forum post with id '977161' in the discussion '383763' located in the forum with course module id '1440275'.,web,172.17.42.150,13:56,13/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383134' in the forum with course module id '1440275'.,web,172.17.42.235,13:43,13/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Course module viewed,The user with id 's1' viewed the 'forum' activity with course module id '1440275'.,web,172.17.42.150,13:43,13/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383076' in the forum with course module id '1440275'.,web,172.17.42.35,09:14,13/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383763' in the forum with course module id '1440275'.,web,172.17.42.35,09:14,13/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Course module viewed,The user with id 's1' viewed the 'forum' activity with course module id '1440275'.,web,172.17.42.103,09:14,13/11/2020
+s1,Page: Assignment 2 Information,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1440198'.,web,172.17.42.156,09:14,13/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383076' in the forum with course module id '1440275'.,web,172.17.42.35,09:13,13/11/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.150,09:13,13/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383076' in the forum with course module id '1440275'.,web,172.17.42.150,22:25,12/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '382350' in the forum with course module id '1440275'.,web,172.17.42.103,22:25,12/11/2020
+s1,Page: Assignment 2 Information,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1440198'.,web,172.17.42.103,22:24,12/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383134' in the forum with course module id '1440275'.,web,172.17.42.150,22:24,12/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Course module viewed,The user with id 's1' viewed the 'forum' activity with course module id '1440275'.,web,172.17.42.150,22:24,12/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.150,22:23,12/11/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.156,22:23,12/11/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.103,22:23,12/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383076' in the forum with course module id '1440275'.,web,172.17.42.150,14:52,12/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383076' in the forum with course module id '1440275'.,web,172.17.42.116,14:14,12/11/2020
+s1,System,System,Notification sent,The user with id 's1' sent a notification to the user with id 's7'.,cli,,12:34,12/11/2020
+s1,System,System,Notification sent,The user with id 's1' sent a notification to the user with id 's1'.,cli,,12:34,12/11/2020
+s1,System,System,Notification sent,The user with id 's1' sent a notification to the user with id 's5'.,cli,,12:34,12/11/2020
+s1,System,System,Notification sent,The user with id 's1' sent a notification to the user with id 's8'.,cli,,12:34,12/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Post created,The user with id 's1' has created the post with id '975965' in the discussion with id '383076' in the forum with course module id '1440275'.,web,172.17.42.175,11:51,12/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Some content has been posted.,The user with id 's1' has posted content in the forum post with id '975965' in the discussion '383076' located in the forum with course module id '1440275'.,web,172.17.42.175,11:51,12/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.156,11:33,12/11/2020
+s1,Page: Assignment 2 Information,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1440198'.,web,172.17.42.35,11:33,12/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383076' in the forum with course module id '1440275'.,web,172.17.42.116,11:31,12/11/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.156,11:31,12/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383076' in the forum with course module id '1440275'.,web,172.17.42.35,22:13,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '382350' in the forum with course module id '1440275'.,web,172.17.42.156,22:13,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383134' in the forum with course module id '1440275'.,web,172.17.42.103,22:12,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Course module viewed,The user with id 's1' viewed the 'forum' activity with course module id '1440275'.,web,172.17.42.116,22:12,11/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.35,22:12,11/11/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.156,22:12,11/11/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.175,22:12,11/11/2020
+s1,System,System,Notification sent,The user with id 's1' sent a notification to the user with id 's5'.,cli,,16:33,11/11/2020
+s1,System,System,Notification sent,The user with id 's1' sent a notification to the user with id 's7'.,cli,,16:33,11/11/2020
+s1,System,System,Notification sent,The user with id 's1' sent a notification to the user with id 's1'.,cli,,16:33,11/11/2020
+s1,System,System,Notification sent,The user with id 's1' sent a notification to the user with id 's8'.,cli,,16:04,11/11/2020
+s1,System,System,Notification sent,The user with id 's1' sent a notification to the user with id 's7'.,cli,,16:04,11/11/2020
+s1,System,System,Notification sent,The user with id 's1' sent a notification to the user with id 's1'.,cli,,16:04,11/11/2020
+s1,System,System,Notification sent,The user with id 's1' sent a notification to the user with id 's5'.,cli,,16:04,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion subscription created,The user with id 's1' subscribed the user with id 's1' to the discussion  with id '383076' in the forum with the course module id '1440275'.,web,172.17.42.103,15:58,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Post created,The user with id 's1' has created the post with id '975028' in the discussion with id '383076' in the forum with course module id '1440275'.,web,172.17.42.103,15:58,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Some content has been posted.,The user with id 's1' has posted content in the forum post with id '975028' in the discussion '383076' located in the forum with course module id '1440275'.,web,172.17.42.103,15:58,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383076' in the forum with course module id '1440275'.,web,172.17.42.103,15:47,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383076' in the forum with course module id '1440275'.,web,172.17.42.116,15:43,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383076' in the forum with course module id '1440275'.,web,172.17.42.116,15:39,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383076' in the forum with course module id '1440275'.,web,172.17.42.103,15:36,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383076' in the forum with course module id '1440275'.,web,172.17.42.116,15:30,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Course module viewed,The user with id 's1' viewed the 'forum' activity with course module id '1440275'.,web,172.17.42.175,15:28,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Post created,The user with id 's1' has created the post with id '974961' in the discussion with id '382350' in the forum with course module id '1440275'.,web,172.17.42.150,15:28,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Some content has been posted.,The user with id 's1' has posted content in the forum post with id '974961' in the discussion '382350' located in the forum with course module id '1440275'.,web,172.17.42.150,15:28,11/11/2020
+s1,Page: Assignment 2 Information,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1440198'.,web,172.17.42.175,15:20,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '382350' in the forum with course module id '1440275'.,web,172.17.42.103,15:19,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383076' in the forum with course module id '1440275'.,web,172.17.42.156,15:19,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '382350' in the forum with course module id '1440275'.,web,172.17.42.103,15:18,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383076' in the forum with course module id '1440275'.,web,172.17.42.103,15:18,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383076' in the forum with course module id '1440275'.,web,172.17.42.103,15:17,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '383076' in the forum with course module id '1440275'.,web,172.17.42.103,15:17,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Course module viewed,The user with id 's1' viewed the 'forum' activity with course module id '1440275'.,web,172.17.42.103,15:17,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '382350' in the forum with course module id '1440275'.,web,172.17.42.35,15:08,11/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Course module viewed,The user with id 's1' viewed the 'forum' activity with course module id '1440275'.,web,172.17.42.103,15:08,11/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.103,15:08,11/11/2020
+s1,Page: Developing a Storm App,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1447146'.,web,172.17.42.103,13:42,11/11/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.150,13:42,11/11/2020
+s1,Page: Introduction to Stream Processing and Storm,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1444573'.,web,172.17.42.116,12:53,11/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.116,12:53,11/11/2020
+s1,Page: Finding Similar Items,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1444571'.,web,172.17.42.35,11:54,11/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.35,11:54,11/11/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.35,11:54,11/11/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.35,11:54,11/11/2020
+s1,System,System,Notification sent,The user with id 's1' sent a notification to the user with id 's7'.,cli,,12:33,10/11/2020
+s1,System,System,Notification sent,The user with id 's1' sent a notification to the user with id 's1'.,cli,,12:33,10/11/2020
+s1,Page: Assignment 2 Information,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1440198'.,web,172.17.42.156,12:22,10/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.103,12:22,10/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '382350' in the forum with course module id '1440275'.,web,172.17.42.156,12:21,10/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Course module viewed,The user with id 's1' viewed the 'forum' activity with course module id '1440275'.,web,172.17.42.156,12:21,10/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.103,12:21,10/11/2020
+s1,Assignment: Assignment 2 Submission,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1440272'.,web,172.17.42.156,12:21,10/11/2020
+s1,Assignment: Assignment 2 Submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1440272'.,web,172.17.42.156,12:21,10/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion subscription created,The user with id 's1' subscribed the user with id 's1' to the discussion  with id '382350' in the forum with the course module id '1440275'.,web,172.17.42.103,11:37,10/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Post created,The user with id 's1' has created the post with id '973514' in the discussion with id '382350' in the forum with course module id '1440275'.,web,172.17.42.103,11:37,10/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Some content has been posted.,The user with id 's1' has posted content in the forum post with id '973514' in the discussion '382350' located in the forum with course module id '1440275'.,web,172.17.42.103,11:37,10/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '382350' in the forum with course module id '1440275'.,web,172.17.42.103,11:32,10/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '382350' in the forum with course module id '1440275'.,web,172.17.42.175,11:32,10/11/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.116,11:32,10/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '382350' in the forum with course module id '1440275'.,web,172.17.42.150,19:56,09/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '382350' in the forum with course module id '1440275'.,web,172.17.42.156,19:39,09/11/2020
+s1,Page: Assignment 2 Information,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1440198'.,web,172.17.42.116,19:36,09/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '382350' in the forum with course module id '1440275'.,web,172.17.42.103,19:35,09/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Discussion viewed,The user with id 's1' has viewed the discussion with id '382350' in the forum with course module id '1440275'.,web,172.17.42.156,19:34,09/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Course module viewed,The user with id 's1' viewed the 'forum' activity with course module id '1440275'.,web,172.17.42.116,19:34,09/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.156,19:34,09/11/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.116,19:34,09/11/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.156,19:34,09/11/2020
+s1,Page: Assignment 2 Information,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1440198'.,web,172.17.42.244,11:36,08/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.103,11:36,08/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Course module viewed,The user with id 's1' viewed the 'forum' activity with course module id '1440275'.,web,172.17.42.103,11:36,08/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.103,11:36,08/11/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.35,11:36,08/11/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.35,11:36,08/11/2020
+s1,Assignment: Assignment 1 Submission,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1440241'.,web,172.17.42.150,17:45,05/11/2020
+s1,Assignment: Assignment 1 Submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1440241'.,web,172.17.42.150,17:45,05/11/2020
+s1,Assignment: Assignment 1 Submission,Assignment,A submission has been submitted.,The user with id 's1' has submitted the submission with id '3020158' for the assignment with course module id '1440241'.,web,172.17.42.103,17:45,05/11/2020
+s1,Assignment: Assignment 1 Submission,Assignment,The user has accepted the statement of the submission.,The user with id 's1' has accepted the statement of the submission with id '3020158' for the assignment with course module id '1440241'.,web,172.17.42.103,17:45,05/11/2020
+s1,Assignment: Assignment 1 Submission,System,Course activity completion updated,The user with id 's1' updated the completion state for the course module with id '1440241' for the user with id 's1'.,web,172.17.42.103,17:45,05/11/2020
+s1,Assignment: Assignment 1 Submission,File submissions,Submission created.,The user with id 's1' created a file submission and uploaded '1' file/s in the assignment with course module id '1440241'.,web,172.17.42.103,17:45,05/11/2020
+s1,Assignment: Assignment 1 Submission,File submissions,A file has been uploaded.,The user with id 's1' has uploaded a file to the submission with id '3020158' in the assignment activity with course module id '1440241'.,web,172.17.42.103,17:45,05/11/2020
+s1,Assignment: Assignment 1 Submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1440241'.,web,172.17.42.103,17:45,05/11/2020
+s1,Assignment: Assignment 1 Submission,Assignment,Submission form viewed.,The user with id 's1' viewed their submission for the assignment with course module id '1440241'.,web,172.17.42.64,17:44,05/11/2020
+s1,Assignment: Assignment 1 Submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1440241'.,web,172.17.42.64,17:44,05/11/2020
+s1,Assignment: Assignment 1 Submission,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1440241'.,web,172.17.42.244,17:44,05/11/2020
+s1,Assignment: Assignment 1 Submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1440241'.,web,172.17.42.244,17:44,05/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.244,17:44,05/11/2020
+s1,Page: Assignment 1 - Pig and Hive on MovieLens,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1428022'.,web,172.17.42.244,17:12,05/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.150,17:12,05/11/2020
+s1,Assignment: Assignment 1 Submission,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1440241'.,web,172.17.42.64,17:12,05/11/2020
+s1,Assignment: Assignment 1 Submission,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1440241'.,web,172.17.42.64,17:12,05/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.150,17:11,05/11/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.150,17:11,05/11/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.103,17:11,05/11/2020
+s1,Forum: Assigment 2  Forum Discussion,Forum,Course module viewed,The user with id 's1' viewed the 'forum' activity with course module id '1440275'.,web,172.17.42.103,09:33,05/11/2020
+s1,Page: Assignment 2 Information,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1440198'.,web,172.17.42.150,09:33,05/11/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.150,09:33,05/11/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.244,09:32,05/11/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.103,09:32,05/11/2020
+s1,Course: 2020/2021 CA4015 Advanced Machine Learning,System,Course viewed,The user with id 's1' viewed the course with id '46248'.,web,172.17.42.150,15:32,30/10/2020
+s1,URL: The fundamental idea of ensembles,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1429783'.,web,172.17.42.150,14:04,30/10/2020
+s1,Course: 2020/2021 CA4015 Advanced Machine Learning,System,Course viewed,The user with id 's1' viewed the course with id '46248'.,web,172.17.42.150,14:04,30/10/2020
+s1,Course: 2020/2021 CA4021 Final Year Project,System,Course viewed,The user with id 's1' viewed the course with id '51334'.,web,172.17.42.150,14:03,30/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.103,14:01,30/10/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.64,14:01,30/10/2020
+s1,File: Functional Programming and related concepts - slides,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1436205'.,web,172.17.42.64,09:13,30/10/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.64,09:13,30/10/2020
+s1,File: Ensembles,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1429779'.,web,172.17.42.64,09:03,30/10/2020
+s1,File: Topic 04 Feature Engineering,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1415769'.,web,172.17.42.136,09:02,30/10/2020
+s1,Course: 2020/2021 CA4015 Advanced Machine Learning,System,Course viewed,The user with id 's1' viewed the course with id '46248'.,web,172.17.42.64,09:02,30/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.64,09:01,30/10/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.103,09:01,30/10/2020
+s1,Page: Assignment 1 - Pig and Hive on MovieLens,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1428022'.,web,172.17.42.170,09:19,29/10/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.152,09:19,29/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.170,09:15,29/10/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.170,09:15,29/10/2020
+s1,File: Hive and Pig lab,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1427543'.,web,172.17.42.93,15:34,28/10/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.64,15:34,28/10/2020
+s1,File: Multithreading,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1430680'.,web,172.17.42.152,09:17,28/10/2020
+s1,Page: Assignment 1 - Pig and Hive on MovieLens,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1428022'.,web,172.17.42.64,09:14,28/10/2020
+s1,Page: Hive and Pig practicals,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1427582'.,web,172.17.42.93,09:11,28/10/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.64,09:11,28/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.93,09:11,28/10/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.170,09:11,28/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.170,10:29,27/10/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.93,10:29,27/10/2020
+s1,Assignment: Handup for Assignment 1 ,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1429775'.,web,172.17.42.93,16:57,24/10/2020
+s1,Assignment: Handup for Assignment 1 ,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1429775'.,web,172.17.42.93,16:57,24/10/2020
+s1,Assignment: Handup for Assignment 1 ,Assignment,A submission has been submitted.,The user with id 's1' has submitted the submission with id '2983912' for the assignment with course module id '1429775'.,web,172.17.42.93,16:57,24/10/2020
+s1,Assignment: Handup for Assignment 1 ,Assignment,The user has accepted the statement of the submission.,The user with id 's1' has accepted the statement of the submission with id '2983912' for the assignment with course module id '1429775'.,web,172.17.42.93,16:57,24/10/2020
+s1,Assignment: Handup for Assignment 1 ,System,Course activity completion updated,The user with id 's1' updated the completion state for the course module with id '1429775' for the user with id 's1'.,web,172.17.42.93,16:57,24/10/2020
+s1,Assignment: Handup for Assignment 1 ,File submissions,Submission created.,The user with id 's1' created a file submission and uploaded '1' file/s in the assignment with course module id '1429775'.,web,172.17.42.93,16:57,24/10/2020
+s1,Assignment: Handup for Assignment 1 ,File submissions,A file has been uploaded.,The user with id 's1' has uploaded a file to the submission with id '2983912' in the assignment activity with course module id '1429775'.,web,172.17.42.93,16:57,24/10/2020
+s1,Assignment: Handup for Assignment 1 ,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1429775'.,web,172.17.42.93,16:57,24/10/2020
+s1,Assignment: Handup for Assignment 1 ,Assignment,Submission form viewed.,The user with id 's1' viewed their submission for the assignment with course module id '1429775'.,web,172.17.42.170,16:57,24/10/2020
+s1,Assignment: Handup for Assignment 1 ,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1429775'.,web,172.17.42.170,16:57,24/10/2020
+s1,Assignment: Handup for Assignment 1 ,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1429775'.,web,172.17.42.170,16:54,24/10/2020
+s1,Assignment: Handup for Assignment 1 ,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1429775'.,web,172.17.42.170,16:54,24/10/2020
+s1,Assignment: Handup for Assignment 1 ,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1429775'.,web,172.17.42.170,14:47,24/10/2020
+s1,Assignment: Handup for Assignment 1 ,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1429775'.,web,172.17.42.170,14:47,24/10/2020
+s1,Course: 2020/2021 CA4015 Advanced Machine Learning,System,Course viewed,The user with id 's1' viewed the course with id '46248'.,web,172.17.42.170,14:46,24/10/2020
+s1,URL: Clustering Evaluation ,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1420869'.,web,172.17.42.170,14:46,24/10/2020
+s1,Course: 2020/2021 CA4015 Advanced Machine Learning,System,Course viewed,The user with id 's1' viewed the course with id '46248'.,web,172.17.42.170,14:46,24/10/2020
+s1,Course: DEVELOP,System,Course viewed,The user with id 's1' viewed the course with id '52833'.,web,172.17.42.170,14:46,24/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.93,14:46,24/10/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.93,14:46,24/10/2020
+s1,Page: Assignment 1 - Pig and Hive on MovieLens,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1428022'.,web,172.17.42.38,11:37,23/10/2020
+s1,Page: Hive and Pig practicals,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1427582'.,web,172.17.42.170,11:35,23/10/2020
+s1,URL: Lab2 - Hive and Pig,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1427540'.,web,172.17.42.170,11:35,23/10/2020
+s1,URL: Lab1 - Hadoop and Map Reduce,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1416410'.,web,172.17.42.170,11:35,23/10/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.170,11:35,23/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.93,11:35,23/10/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.170,11:35,23/10/2020
+s1,Page: Narrated Slides - Week 2,Page,Course module viewed,The user with id 's1' viewed the 'page' activity with course module id '1420043'.,web,172.17.42.152,09:05,22/10/2020
+s1,URL: Lab1 - Hadoop and Map Reduce,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1416410'.,web,172.17.42.38,09:05,22/10/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.38,09:05,22/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.152,09:05,22/10/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.170,09:05,22/10/2020
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the course with id '47567'.,web,172.17.42.93,16:32,21/10/2020
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the course with id '47567'.,web,172.17.42.38,16:32,21/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.170,16:31,21/10/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.152,16:31,21/10/2020
+s1,URL: Lab1 - Hadoop and Map Reduce,URL,Course module viewed,The user with id 's1' viewed the 'url' activity with course module id '1416410'.,web,172.17.42.152,09:17,21/10/2020
+s1,"File: Hadoop Ecosystem, Hive and Pig",File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1420650'.,web,172.17.42.170,09:12,21/10/2020
+s1,File: The Hadoop Infrastructure,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1420056'.,web,172.17.42.93,09:08,21/10/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.93,09:08,21/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.93,09:08,21/10/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.38,09:08,21/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.170,15:19,20/10/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.93,15:19,20/10/2020
+s1,File: Topic 04 Feature Engineering,System,Course activity completion updated,The user with id 's1' updated the completion state for the course module with id '1415769' for the user with id 's1'.,web,172.17.42.152,09:04,16/10/2020
+s1,File: Topic 04 Feature Engineering,System,Course activity completion updated,The user with id 's1' updated the completion state for the course module with id '1415769' for the user with id 's1'.,web,172.17.42.152,09:04,16/10/2020
+s1,File: Topic 04 Feature Engineering,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1415769'.,web,172.17.42.152,09:04,16/10/2020
+s1,Course: 2020/2021 CA4015 Advanced Machine Learning,System,Course viewed,The user with id 's1' viewed the course with id '46248'.,web,172.17.42.93,09:04,16/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.38,09:03,16/10/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.152,09:03,16/10/2020
+s1,File: MapReduce Exercises,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1416390'.,web,172.17.42.152,09:04,15/10/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.38,09:04,15/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.170,09:03,15/10/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.170,09:03,15/10/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.152,10:25,14/10/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.93,09:54,14/10/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,172.17.42.152,09:17,14/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,172.17.42.152,09:17,14/10/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,172.17.42.93,09:17,14/10/2020
+s1,Course: 2018/2019 MS205 Calculus of Several Variables,System,Course viewed,The user with id 's1' viewed the course with id '6260'.,web,127.0.0.1,15:15,09/10/2020
+s1,Course: 2018/2019 CA271 Introduction to Machine Learning,System,Course viewed,The user with id 's1' viewed the course with id '26331'.,web,127.0.0.1,15:13,09/10/2020
+s1,Course: 2018/2019 CA270 Data Warehousing and OLAP,System,Course viewed,The user with id 's1' viewed the course with id '26420'.,web,127.0.0.1,15:12,09/10/2020
+s1,Course: 2018/2019 CA273 Data Processing and Visualisation,System,Course viewed,The user with id 's1' viewed the course with id '26376'.,web,127.0.0.1,15:12,09/10/2020
+s1,Course: 2019/2020 CA336 Data Exploration Using Graph Theory,System,Course viewed,The user with id 's1' viewed the course with id '31196'.,web,127.0.0.1,15:12,09/10/2020
+s1,File: Community Detection handout,File,Course module viewed,The user with id 's1' viewed the 'resource' activity with course module id '1195083'.,web,127.0.0.1,15:11,09/10/2020
+s1,Course: 2019/2020 CA336 Data Exploration Using Graph Theory,System,Course viewed,The user with id 's1' viewed the course with id '31196'.,web,127.0.0.1,15:11,09/10/2020
+s1,Course: 2020/2021 CA4015 Advanced Machine Learning,System,Course viewed,The user with id 's1' viewed the course with id '46248'.,web,127.0.0.1,13:56,09/10/2020
+s1,Course: 2020/2021 CA4016 Application Domains 2,System,Course viewed,The user with id 's1' viewed the course with id '46782'.,web,127.0.0.1,13:56,09/10/2020
+s1,Course: 2020/2021 CA4021 Final Year Project,System,Course viewed,The user with id 's1' viewed the course with id '51334'.,web,127.0.0.1,13:56,09/10/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,127.0.0.1,13:55,09/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,127.0.0.1,13:55,09/10/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,127.0.0.1,13:55,09/10/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,127.0.0.1,10:18,08/10/2020
+s1,Group choice: 1.3 Choose your team,Group choice,Course module viewed,The user with id 's1' viewed the 'choicegroup' activity with course module id '1383342'.,web,127.0.0.1,09:17,08/10/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,127.0.0.1,09:17,08/10/2020
+s1,Book: 1.1 Module Handbook,Book,Chapter viewed,The user with id 's1' viewed the chapter with id '271458' for the book with course module id '1317985'.,web,127.0.0.1,09:06,08/10/2020
+s1,Book: 1.1 Module Handbook,Book,Chapter viewed,The user with id 's1' viewed the chapter with id '271462' for the book with course module id '1317985'.,web,127.0.0.1,09:05,08/10/2020
+s1,Book: 1.1 Module Handbook,Book,Course module viewed,The user with id 's1' viewed the 'book' activity with course module id '1317985'.,web,127.0.0.1,09:05,08/10/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,127.0.0.1,09:05,08/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,127.0.0.1,09:05,08/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,127.0.0.1,08:52,08/10/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,127.0.0.1,08:52,08/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,127.0.0.1,12:29,07/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,127.0.0.1,11:06,07/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,127.0.0.1,11:05,07/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,127.0.0.1,11:04,07/10/2020
+s1,Group choice: 1.3 Choose your team,Group choice,Course module viewed,The user with id 's1' viewed the 'choicegroup' activity with course module id '1383342'.,web,127.0.0.1,10:47,07/10/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,127.0.0.1,10:46,07/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,127.0.0.1,10:46,07/10/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,127.0.0.1,10:46,07/10/2020
+s1,Group choice: 1.3 Choose your team,Group choice,Course module viewed,The user with id 's1' viewed the 'choicegroup' activity with course module id '1383342'.,web,127.0.0.1,10:46,07/10/2020
+s1,Group choice: 1.3 Choose your team,Group choice,Course module viewed,The user with id 's1' viewed the 'choicegroup' activity with course module id '1383342'.,web,127.0.0.1,10:46,07/10/2020
+s1,Group choice: 1.3 Choose your team,Group choice,Course module viewed,The user with id 's1' viewed the 'choicegroup' activity with course module id '1383342'.,web,127.0.0.1,10:46,07/10/2020
+s1,Group choice: 1.3 Choose your team,Group choice,Choice made,The user with id 's1' has chosen a group in the group choice with the course module id '1383342'.,web,127.0.0.1,10:46,07/10/2020
+s1,Group choice: 1.3 Choose your team,System,Course activity completion updated,The user with id 's1' updated the completion state for the course module with id '1383342' for the user with id 's1'.,web,127.0.0.1,10:46,07/10/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Group member added,The user with id 's1' added the user with id 's1' to the group with id '90226'.,web,127.0.0.1,10:45,07/10/2020
+s1,Group choice: 1.3 Choose your team,Group choice,Course module viewed,The user with id 's1' viewed the 'choicegroup' activity with course module id '1383342'.,web,127.0.0.1,10:45,07/10/2020
+s1,Group choice: 1.3 Choose your team,Group choice,Course module viewed,The user with id 's1' viewed the 'choicegroup' activity with course module id '1383342'.,web,127.0.0.1,10:32,07/10/2020
+s1,Group choice: 1.3 Choose your team,Group choice,Course module viewed,The user with id 's1' viewed the 'choicegroup' activity with course module id '1383342'.,web,127.0.0.1,10:27,07/10/2020
+s1,Group choice: 1.3 Choose your team,Group choice,Course module viewed,The user with id 's1' viewed the 'choicegroup' activity with course module id '1383342'.,web,127.0.0.1,10:24,07/10/2020
+s1,Group choice: 1.3 Choose your team,Group choice,Course module viewed,The user with id 's1' viewed the 'choicegroup' activity with course module id '1383342'.,web,127.0.0.1,10:20,07/10/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,127.0.0.1,10:20,07/10/2020
+s1,System,System,Web service function called,The web service function 'tool_mobile_call_external_functions' has been called.,ws,127.0.0.1,09:39,07/10/2020
+s1,System,System,Web service function called,The web service function 'message_popup_get_unread_popup_notification_count' has been called.,ws,127.0.0.1,09:39,07/10/2020
+s1,Course: 2020/2021 CA4024 Building Complex Computational Models,System,Course viewed,The user with id 's1' viewed the course with id '48726'.,web,127.0.0.1,09:23,07/10/2020
+s1,Course: 2020/2021 CA4023 Natural Language Technologies,System,Course viewed,The user with id 's1' viewed the course with id '47567'.,web,127.0.0.1,09:23,07/10/2020
+s1,Course: 2020/2021 CA4016 Application Domains 2,System,Course viewed,The user with id 's1' viewed the course with id '46782'.,web,127.0.0.1,09:22,07/10/2020
+s1,Course: 2020/2021 CA4015 Advanced Machine Learning,System,Course viewed,The user with id 's1' viewed the course with id '46248'.,web,127.0.0.1,09:22,07/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,127.0.0.1,09:21,07/10/2020
+s1,Questionnaire: 1.2 Skills and Background Survey,System,Course activity completion updated,The user with id 's1' updated the completion state for the course module with id '1382604' for the user with id 's1'.,web,127.0.0.1,09:20,07/10/2020
+s1,Front page,System,Course viewed,The user with id 's1' viewed the course with id '1'.,ws,127.0.0.1,09:18,07/10/2020
+s1,System,System,Web service function called,The web service function 'core_course_view_course' has been called.,ws,127.0.0.1,09:18,07/10/2020
+s1,Book: 1.1 Module Handbook,Book,Chapter viewed,The user with id 's1' viewed the chapter with id '271464' for the book with course module id '1317985'.,web,127.0.0.1,09:16,07/10/2020
+s1,Book: 1.1 Module Handbook,Book,Chapter viewed,The user with id 's1' viewed the chapter with id '271463' for the book with course module id '1317985'.,web,127.0.0.1,09:15,07/10/2020
+s1,Book: 1.1 Module Handbook,Book,Chapter viewed,The user with id 's1' viewed the chapter with id '271461' for the book with course module id '1317985'.,web,127.0.0.1,09:15,07/10/2020
+s1,Book: 1.1 Module Handbook,Book,Chapter viewed,The user with id 's1' viewed the chapter with id '271460' for the book with course module id '1317985'.,web,127.0.0.1,09:14,07/10/2020
+s1,Book: 1.1 Module Handbook,Book,Chapter viewed,The user with id 's1' viewed the chapter with id '271459' for the book with course module id '1317985'.,web,127.0.0.1,09:14,07/10/2020
+s1,Book: 1.1 Module Handbook,Book,Chapter viewed,The user with id 's1' viewed the chapter with id '271458' for the book with course module id '1317985'.,web,127.0.0.1,09:13,07/10/2020
+s1,Book: 1.1 Module Handbook,Book,Chapter viewed,The user with id 's1' viewed the chapter with id '271462' for the book with course module id '1317985'.,web,127.0.0.1,09:12,07/10/2020
+s1,Book: 1.1 Module Handbook,Book,Course module viewed,The user with id 's1' viewed the 'book' activity with course module id '1317985'.,web,127.0.0.1,09:12,07/10/2020
+s1,Group choice: 1.3 Choose your team,Group choice,Course module viewed,The user with id 's1' viewed the 'choicegroup' activity with course module id '1383342'.,web,127.0.0.1,09:11,07/10/2020
+s1,Group choice: 1.3 Choose your team,Group choice,Choice made,The user with id 's1' has chosen a group in the group choice with the course module id '1383342'.,web,127.0.0.1,09:11,07/10/2020
+s1,Group choice: 1.3 Choose your team,System,Course activity completion updated,The user with id 's1' updated the completion state for the course module with id '1383342' for the user with id 's1'.,web,127.0.0.1,09:11,07/10/2020
+s1,Front page,System,Course viewed,The user with id 's1' viewed the course with id '1'.,ws,127.0.0.1,09:11,07/10/2020
+s1,System,System,Web service function called,The web service function 'core_course_view_course' has been called.,ws,127.0.0.1,09:11,07/10/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Group member added,The user with id 's1' added the user with id 's1' to the group with id '90224'.,web,127.0.0.1,09:11,07/10/2020
+s1,Group choice: 1.3 Choose your team,Group choice,Course module viewed,The user with id 's1' viewed the 'choicegroup' activity with course module id '1383342'.,web,127.0.0.1,09:11,07/10/2020
+s1,Front page,System,Course viewed,The user with id 's1' viewed the course with id '1'.,ws,127.0.0.1,09:10,07/10/2020
+s1,System,System,Web service function called,The web service function 'core_course_view_course' has been called.,ws,127.0.0.1,09:10,07/10/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,web,127.0.0.1,09:10,07/10/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,127.0.0.1,09:10,07/10/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,127.0.0.1,09:10,07/10/2020
+s1,Group choice: 1.3 Choose your team,Group choice,Course module viewed,The user with id 's1' viewed the 'choicegroup' activity with course module id '1383342'.,ws,127.0.0.1,09:08,07/10/2020
+s1,System,System,Web service function called,The web service function 'mod_choicegroup_view_choicegroup' has been called.,ws,127.0.0.1,09:08,07/10/2020
+s1,System,System,Web service function called,The web service function 'tool_mobile_get_content' has been called.,ws,127.0.0.1,09:08,07/10/2020
+s1,Front page,System,Course viewed,The user with id 's1' viewed the course with id '1'.,ws,127.0.0.1,09:08,07/10/2020
+s1,System,System,Web service function called,The web service function 'core_course_view_course' has been called.,ws,127.0.0.1,09:08,07/10/2020
+s1,Group choice: 1.3 Choose your team,Group choice,Course module viewed,The user with id 's1' viewed the 'choicegroup' activity with course module id '1383342'.,ws,127.0.0.1,09:07,07/10/2020
+s1,System,System,Web service function called,The web service function 'mod_choicegroup_view_choicegroup' has been called.,ws,127.0.0.1,09:07,07/10/2020
+s1,System,System,Web service function called,The web service function 'tool_mobile_get_content' has been called.,ws,127.0.0.1,09:07,07/10/2020
+s1,Front page,System,Course viewed,The user with id 's1' viewed the course with id '1'.,ws,127.0.0.1,09:07,07/10/2020
+s1,System,System,Web service function called,The web service function 'core_course_view_course' has been called.,ws,127.0.0.1,09:07,07/10/2020
+s1,Front page,System,Course viewed,The user with id 's1' viewed the course with id '1'.,ws,127.0.0.1,09:07,07/10/2020
+s1,System,System,Web service function called,The web service function 'core_course_view_course' has been called.,ws,127.0.0.1,09:07,07/10/2020
+s1,System,System,Web service function called,The web service function 'tool_mobile_get_content' has been called.,ws,127.0.0.1,09:06,07/10/2020
+s1,Front page,System,Course viewed,The user with id 's1' viewed the course with id '1'.,ws,127.0.0.1,09:06,07/10/2020
+s1,System,System,Web service function called,The web service function 'core_course_view_course' has been called.,ws,127.0.0.1,09:06,07/10/2020
+s1,Front page,System,Course viewed,The user with id 's1' viewed the course with id '1'.,ws,127.0.0.1,09:05,07/10/2020
+s1,System,System,Web service function called,The web service function 'core_course_view_course' has been called.,ws,127.0.0.1,09:05,07/10/2020
+s1,Front page,System,Course viewed,The user with id 's1' viewed the course with id '1'.,ws,127.0.0.1,09:04,07/10/2020
+s1,System,System,Web service function called,The web service function 'core_course_view_course' has been called.,ws,127.0.0.1,09:04,07/10/2020
+s1,Group choice: 1.3 Choose your team,System,Course activity completion updated,The user with id 's1' updated the completion state for the course module with id '1383342' for the user with id 's1'.,ws,127.0.0.1,09:04,07/10/2020
+s1,Group choice: 1.3 Choose your team,Group choice,Course module viewed,The user with id 's1' viewed the 'choicegroup' activity with course module id '1383342'.,ws,127.0.0.1,09:04,07/10/2020
+s1,System,System,Web service function called,The web service function 'mod_choicegroup_view_choicegroup' has been called.,ws,127.0.0.1,09:04,07/10/2020
+s1,System,System,Web service function called,The web service function 'tool_mobile_get_content' has been called.,ws,127.0.0.1,09:04,07/10/2020
+s1,System,System,Web service function called,The web service function 'core_filters_get_available_in_context' has been called.,ws,127.0.0.1,09:03,07/10/2020
+s1,System,System,Web service function called,The web service function 'core_block_get_course_blocks' has been called.,ws,127.0.0.1,09:03,07/10/2020
+s1,System,System,Web service function called,The web service function 'mod_lti_get_ltis_by_courses' has been called.,ws,127.0.0.1,09:03,07/10/2020
+s1,Course: 2020/2021 CA4022 Data at Speed and Scale,System,Course viewed,The user with id 's1' viewed the course with id '50840'.,ws,127.0.0.1,09:03,07/10/2020
+s1,System,System,Web service function called,The web service function 'core_course_view_course' has been called.,ws,127.0.0.1,09:03,07/10/2020
+s1,System,System,Web service function called,The web service function 'core_filters_get_available_in_context' has been called.,ws,127.0.0.1,09:02,07/10/2020
+s1,System,System,Web service function called,The web service function 'tool_mobile_call_external_functions' has been called.,ws,127.0.0.1,09:02,07/10/2020
+s1,System,System,Web service function called,The web service function 'tool_mobile_call_external_functions' has been called.,ws,127.0.0.1,09:02,07/10/2020
+s1,System,System,Web service function called,The web service function 'tool_mobile_call_external_functions' has been called.,ws,127.0.0.1,09:02,07/10/2020
+s1,Front page,System,Course viewed,The user with id 's1' viewed the course with id '1'.,ws,127.0.0.1,09:02,07/10/2020
+s1,System,System,Web service function called,The web service function 'core_course_view_course' has been called.,ws,127.0.0.1,09:02,07/10/2020
+s1,System,System,Web service function called,The web service function 'tool_mobile_get_content' has been called.,ws,127.0.0.1,09:01,07/10/2020
+s1,Front page,System,Course viewed,The user with id 's1' viewed the course with id '1'.,ws,127.0.0.1,09:01,07/10/2020
+s1,System,System,Web service function called,The web service function 'core_course_view_course' has been called.,ws,127.0.0.1,09:01,07/10/2020
+s1,System,System,Web service function called,The web service function 'tool_mobile_call_external_functions' has been called.,ws,127.0.0.1,09:01,07/10/2020
+s1,System,System,Web service function called,The web service function 'tool_mobile_call_external_functions' has been called.,ws,127.0.0.1,09:01,07/10/2020
+s1,System,System,Web service function called,The web service function 'tool_mobile_get_plugins_supporting_mobile' has been called.,ws,127.0.0.1,09:01,07/10/2020
+s1,System,System,Web service function called,The web service function 'tool_mobile_get_config' has been called.,ws,127.0.0.1,09:01,07/10/2020
+s1,System,System,Web service function called,The web service function 'core_webservice_get_site_info' has been called.,ws,127.0.0.1,09:01,07/10/2020
+s1,System,System,Web service token sent,The user with id 's1' has been sent the web service token with id '210801'.,web,127.0.0.1,09:01,07/10/2020
+s1,System,System,Web service token created,The user with id 's1' created a web service token for the user with id 's1'.,web,127.0.0.1,09:01,07/10/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,127.0.0.1,09:01,07/10/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,127.0.0.1,12:14,05/10/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,127.0.0.1,11:39,05/10/2020
+s1,Assignment: INTRA report submission 25th September 2020,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1290824'.,web,127.0.0.1,19:07,30/09/2020
+s1,Assignment: INTRA report submission 25th September 2020,Assignment,Feedback viewed,The user with id 's1' viewed the feedback for the user with id 's1' for the assignment with course module id '1290824'.,web,127.0.0.1,19:07,30/09/2020
+s1,Assignment: INTRA report submission 25th September 2020,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1290824'.,web,127.0.0.1,19:06,30/09/2020
+s1,Course: 2019/2020 CA338 Intra,System,Course viewed,The user with id 's1' viewed the course with id '44393'.,web,127.0.0.1,19:05,30/09/2020
+s1,Course: 2019/2020 CA338 Intra,System,Course viewed,The user with id 's1' viewed the course with id '44393'.,web,127.0.0.1,19:05,30/09/2020
+s1,Course: 2019/2020 CA338 Intra,System,Course viewed,The user with id 's1' viewed the course with id '44393'.,web,127.0.0.1,19:05,30/09/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,127.0.0.1,19:05,30/09/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,127.0.0.1,19:05,30/09/2020
+s1,Assignment: INTRA report submission 25th September 2020,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1290824'.,web,127.0.0.1,21:49,25/09/2020
+s1,Assignment: INTRA report submission 25th September 2020,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1290824'.,web,127.0.0.1,21:49,25/09/2020
+s1,Assignment: INTRA report submission 25th September 2020,Assignment,A submission has been submitted.,The user with id 's1' has submitted the submission with id '2919376' for the assignment with course module id '1290824'.,web,127.0.0.1,21:49,25/09/2020
+s1,Assignment: INTRA report submission 25th September 2020,Assignment,The user has accepted the statement of the submission.,The user with id 's1' has accepted the statement of the submission with id '2919376' for the assignment with course module id '1290824'.,web,127.0.0.1,21:49,25/09/2020
+s1,Assignment: INTRA report submission 25th September 2020,System,Course activity completion updated,The user with id 's1' updated the completion state for the course module with id '1290824' for the user with id 's1'.,web,127.0.0.1,21:49,25/09/2020
+s1,Assignment: INTRA report submission 25th September 2020,Reflect portfolio,Submission created.,The user with id 's1' created a Mahara submission with id '48810' in the assignment with the course module id '1290824'.,web,127.0.0.1,21:49,25/09/2020
+s1,Assignment: INTRA report submission 25th September 2020,Reflect portfolio,A Reflect page or collection has been submitted,The user with id 's1' has saved a Mahara submission with id '2919376' in the assignment activity with the course module id '1290824'.,web,127.0.0.1,21:49,25/09/2020
+s1,Assignment: INTRA report submission 25th September 2020,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1290824'.,web,127.0.0.1,21:49,25/09/2020
+s1,Assignment: INTRA report submission 25th September 2020,Assignment,Submission form viewed.,The user with id 's1' viewed their submission for the assignment with course module id '1290824'.,web,127.0.0.1,21:48,25/09/2020
+s1,Assignment: INTRA report submission 25th September 2020,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1290824'.,web,127.0.0.1,21:48,25/09/2020
+s1,Assignment: INTRA report submission 25th September 2020,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1290824'.,web,127.0.0.1,21:48,25/09/2020
+s1,Assignment: INTRA report submission 25th September 2020,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1290824'.,web,127.0.0.1,21:48,25/09/2020
+s1,Course: 2019/2020 CA338 Intra,System,Course viewed,The user with id 's1' viewed the course with id '44393'.,web,127.0.0.1,21:48,25/09/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,127.0.0.1,21:48,25/09/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,127.0.0.1,19:40,25/09/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,127.0.0.1,17:59,25/09/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,127.0.0.1,17:59,25/09/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,127.0.0.1,18:19,24/09/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,127.0.0.1,18:19,24/09/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,127.0.0.1,18:41,23/09/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,127.0.0.1,18:41,23/09/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,127.0.0.1,22:48,21/09/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,127.0.0.1,22:39,21/09/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,127.0.0.1,22:38,21/09/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,127.0.0.1,22:38,21/09/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,10.1.0.6,20:25,15/09/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,10.1.0.4,20:24,15/09/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,10.1.0.4,20:20,15/09/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,10.1.0.4,20:20,15/09/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,10.1.0.6,21:03,08/09/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,10.1.0.6,21:03,08/09/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,10.1.0.6,15:15,01/09/2020
+s1,Assignment: INTRA report submission 25th September 2020,Assignment,Submission form viewed.,The user with id 's1' viewed their submission for the assignment with course module id '1290824'.,web,10.1.0.6,15:14,01/09/2020
+s1,Assignment: INTRA report submission 25th September 2020,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1290824'.,web,10.1.0.6,15:14,01/09/2020
+s1,Assignment: INTRA report submission 25th September 2020,Assignment,The status of the submission has been viewed.,The user with id 's1' has viewed the submission status page for the assignment with course module id '1290824'.,web,10.1.0.6,15:14,01/09/2020
+s1,Assignment: INTRA report submission 25th September 2020,Assignment,Course module viewed,The user with id 's1' viewed the 'assign' activity with course module id '1290824'.,web,10.1.0.6,15:14,01/09/2020
+s1,Course: 2019/2020 CA338 Intra,User tours,Tour ended,The user with id 's1' has ended the tour with id '70' at step index '0' (id '902') on the page with URL 'https://loop.dcu.ie/course/view.php?id=44393'.,web,10.1.0.6,15:14,01/09/2020
+s1,Course: 2019/2020 CA338 Intra,User tours,Step shown,The user with id 's1' has viewed the tour with id '70' at step index '0' (id '902') on the page with URL 'https://loop.dcu.ie/course/view.php?id=44393'.,web,10.1.0.6,15:14,01/09/2020
+s1,Course: 2019/2020 CA338 Intra,User tours,Tour started,The user with id 's1' has started the tour with id '70' on the page with URL 'https://loop.dcu.ie/course/view.php?id=44393'.,web,10.1.0.6,15:14,01/09/2020
+s1,Course: 2019/2020 CA338 Intra,System,Course viewed,The user with id 's1' viewed the course with id '44393'.,web,10.1.0.6,15:14,01/09/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,10.1.0.6,15:13,01/09/2020
+s1,User: s1,User tours,Tour ended,The user with id 's1' has ended the tour with id '69' at step index '0' (id '894') on the page with URL 'https://loop.dcu.ie/my/'.,web,10.1.0.6,15:10,01/09/2020
+s1,User: s1,User tours,Step shown,The user with id 's1' has viewed the tour with id '69' at step index '0' (id '894') on the page with URL 'https://loop.dcu.ie/my/'.,web,10.1.0.6,15:10,01/09/2020
+s1,User: s1,User tours,Tour started,The user with id 's1' has started the tour with id '69' on the page with URL 'https://loop.dcu.ie/my/'.,web,10.1.0.6,15:10,01/09/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,10.1.0.6,15:10,01/09/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,10.1.0.6,15:10,01/09/2020
+s1,Course: 2019/2020 CA338 Intra,System,Course viewed,The user with id 's1' viewed the course with id '44393'.,web,10.1.0.6,16:30,09/07/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,10.1.0.6,16:29,09/07/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,10.1.0.6,16:29,09/07/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,10.1.0.4,11:29,24/06/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'tool_mobile_get_autologin_key' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'message_popup_get_unread_popup_notification_count' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'message_popup_get_popup_notifications' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'mod_forum_get_forums_by_courses' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_filters_get_available_in_context' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_course_get_course_module' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_course_get_user_administration_options' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_course_get_user_navigation_options' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'mod_forum_get_forums_by_courses' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_course_get_courses_by_field' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,Front page,System,Course viewed,The user with id 's1' viewed the course with id '1'.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_course_view_course' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_enrol_get_users_courses' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_calendar_get_action_events_by_timesort' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_filters_get_available_in_context' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_course_get_courses_by_field' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_course_get_user_administration_options' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_course_get_user_navigation_options' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_enrol_get_users_courses' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_calendar_get_action_events_by_timesort' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,Front page,System,Course viewed,The user with id 's1' viewed the course with id '1'.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_course_view_course' has been called.,ws,10.1.0.4,11:29,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_course_get_contents' has been called.,ws,10.1.0.4,11:28,24/06/2020
+s1,System,System,Web service function called,The web service function 'tool_lp_data_for_plans_page' has been called.,ws,10.1.0.4,11:28,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_user_add_user_device' has been called.,ws,10.1.0.4,11:28,24/06/2020
+s1,System,System,Web service function called,The web service function 'tool_mobile_get_plugins_supporting_mobile' has been called.,ws,10.1.0.4,11:28,24/06/2020
+s1,System,System,Web service function called,The web service function 'tool_mobile_get_config' has been called.,ws,10.1.0.4,11:28,24/06/2020
+s1,System,System,Web service function called,The web service function 'core_webservice_get_site_info' has been called.,ws,10.1.0.4,11:28,24/06/2020
+s1,System,System,Web service token sent,The user with id 's1' has been sent the web service token with id '197177'.,web,10.1.0.4,11:28,24/06/2020
+s1,System,System,Web service token created,The user with id 's1' created a web service token for the user with id 's1'.,web,10.1.0.4,11:28,24/06/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,10.1.0.4,11:28,24/06/2020
+s1,Course: 2019/2020 CA338 Intra,System,Course viewed,The user with id 's1' viewed the course with id '44393'.,web,10.1.0.4,11:27,24/06/2020
+s1,User: s1,System,Dashboard viewed,The user with id 's1' has viewed their dashboard,web,10.1.0.4,11:26,24/06/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,10.1.0.4,11:26,24/06/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,10.1.0.4,09:01,28/04/2020
+s1,System,System,Web service function called,The web service function 'mod_forum_get_forums_by_courses' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_filters_get_available_in_context' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_filters_get_available_in_context' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_course_get_course_module' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'mod_forum_get_forums_by_courses' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,Front page,System,Course viewed,The user with id 's1' viewed the course with id '1'.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_course_view_course' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_completion_get_course_completion_status' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_course_get_courses_by_field' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_course_get_user_administration_options' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_course_get_user_navigation_options' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_enrol_get_users_courses' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_calendar_get_action_events_by_timesort' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_course_get_contents' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,Front page,System,Course viewed,The user with id 's1' viewed the course with id '1'.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_course_view_course' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_user_add_user_device' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'tool_lp_data_for_plans_page' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_user_remove_user_device' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'tool_mobile_get_plugins_supporting_mobile' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_filters_get_available_in_context' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'tool_mobile_get_config' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service function called,The web service function 'core_webservice_get_site_info' has been called.,ws,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service token sent,The user with id 's1' has been sent the web service token with id '188743'.,web,10.1.0.4,11:46,27/04/2020
+s1,System,System,Web service token created,The user with id 's1' created a web service token for the user with id 's1'.,web,10.1.0.4,11:46,27/04/2020
+s1,System,System,User has logged in,The user with id 's1' has logged in.,web,10.1.0.4,11:46,27/04/2020
