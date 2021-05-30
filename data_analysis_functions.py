@@ -34,16 +34,16 @@ def read_in_data(data_folder_name):
     
     student_data_dict = {}
     all_student_data_df = pd.DataFrame()
-    for data_file in os.listdir(data_folder_name):
+    for data_file in os.listdir(os.path.join("Data", data_folder_name)):
 
         # define a student number from the data
         student_num = int(data_file[1])
 
         # read in the data
         if data_file.endswith('.csv'):
-            student_data = pd.read_csv(os.path.join(data_folder_name, data_file), encoding='windows-1252')
+            student_data = pd.read_csv(os.path.join("Data", data_folder_name, data_file), encoding='windows-1252')
         elif data_file.endswith('.json'):
-            student_data = pd.read_json(os.path.join(data_folder_name, data_file))
+            student_data = pd.read_json(os.path.join("Data", ata_folder_name, data_file))
         
         # fix the column names
         student_data.columns = [fix_colname(c) for c in student_data.columns]
@@ -96,7 +96,7 @@ def iter_over_dict_of_dfs(data_dict):
 def read_and_clean_foodbook_data():
     
     # read in foodbook data
-    full_foodbook_data = pd.read_csv(os.path.join('foodbook_data', 'dcu_flourish_merged_food_supplement.csv'))
+    full_foodbook_data = pd.read_csv(os.path.join('Data', 'foodbook_data', 'student_food_data.csv'))
     
     # fix the column names
     full_foodbook_data.columns = [fix_colname(c) for c in full_foodbook_data.columns]
